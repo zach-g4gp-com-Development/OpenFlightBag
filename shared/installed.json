@@ -1,0 +1,31 @@
+[
+    {
+        "name": "Maps",
+        "file": "apps/maps/maps.py",
+        "icon": "apps/maps/icons/icon.png",
+        "description": "View and interact with maps in Open Flight Bag.",
+        "version": "1.0.0"
+    },
+    {
+        "name": "Planner",
+        "file": "apps/planner/planner.py",
+        "icon": "apps/planner/icons/planner.png",
+        "description": "Plan and manage your flights with the Flight Planner app.",
+        "version": "1.0.0"
+    },
+    {
+        "name": "Settings",
+        "file": "apps/settings/settings.py",
+        "icon": "apps/settings/icons/settings.png",
+        "description": "Configure Open Flight Bag settings.",
+        "version": "1.0.0"
+    },
+    {
+        "name": "Store",
+        "file": "apps/store/store.py",
+        "icon": "apps/store/icons/store.png",
+        "description": "Browse and install apps for Open Flight Bag.",
+        "version": "1.0.0"
+    }
+
+]
