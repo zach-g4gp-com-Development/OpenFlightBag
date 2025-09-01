@@ -22,7 +22,7 @@ Currently, the way I am operating it is downloading it to a folder and then open
 
 
 # How to contribute?
-In our development folder is everything we put in there that we were going to use or using. As app uploading is not yet here yet, feel free to open an "issue" to upload your app. A discord server is coming soon to simplify this. We are also accepting suggestions! We are currently aware of the following:
+In our development folder is everything we put in there that we were going to use or using. In every base app as well, there is a zip folder that you can disect and that has the entire app format. As app uploading is not yet here yet, feel free to open an "issue" to upload your app. A discord server is coming soon to simplify this. We are also accepting suggestions! We are currently aware of the following:
 
 - Weather app
 - Charts app
