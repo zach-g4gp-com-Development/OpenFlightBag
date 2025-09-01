@@ -1,0 +1,5057 @@
+[
+    {
+        "ident": "ABAPO",
+        "latitude": 52.10277777777778,
+        "longitude": -4.803333333333333
+    },
+    {
+        "ident": "ABBOT",
+        "latitude": 52.01611111111111,
+        "longitude": 0.5994444444444444
+    },
+    {
+        "ident": "ABDUK",
+        "latitude": 51.64277777777778,
+        "longitude": -3.8002777777777776
+    },
+    {
+        "ident": "ABEDA",
+        "latitude": 52.32777777777778,
+        "longitude": 1.8711111111111112
+    },
+    {
+        "ident": "ABKAT",
+        "latitude": 54.14805555555556,
+        "longitude": -1.9797222222222224
+    },
+    {
+        "ident": "ABLIN",
+        "latitude": 52.782777777777774,
+        "longitude": -4.9925
+    },
+    {
+        "ident": "ABSUN",
+        "latitude": 54.29222222222222,
+        "longitude": -6.255
+    },
+    {
+        "ident": "ABTIN",
+        "latitude": 52.42485833333333,
+        "longitude": 0.5865805555555555
+    },
+    {
+        "ident": "ADELU",
+        "latitude": 53.44166666666666,
+        "longitude": -1.5369444444444442
+    },
+    {
+        "ident": "ADMIS",
+        "latitude": 51.996944444444445,
+        "longitude": 0.17666666666666667
+    },
+    {
+        "ident": "ADNAM",
+        "latitude": 52.10472222222222,
+        "longitude": 0.7386111111111111
+    },
+    {
+        "ident": "ADVUL",
+        "latitude": 52.39821944444444,
+        "longitude": 0.5308111111111111
+    },
+    {
+        "ident": "AKIVO",
+        "latitude": 59.964444444444446,
+        "longitude": -9.5
+    },
+    {
+        "ident": "AKOKO",
+        "latitude": 53.23777777777778,
+        "longitude": 3.2019444444444445
+    },
+    {
+        "ident": "AKUPA",
+        "latitude": 52.486666666666665,
+        "longitude": -1.0911111111111111
+    },
+    {
+        "ident": "ALASO",
+        "latitude": 55.447222222222216,
+        "longitude": -1.565
+    },
+    {
+        "ident": "ALKIN",
+        "latitude": 51.39055555555556,
+        "longitude": 0.1947222222222222
+    },
+    {
+        "ident": "ALPHA",
+        "latitude": 56.41361111111111,
+        "longitude": -2.3313888888888887
+    },
+    {
+        "ident": "ALUTA",
+        "latitude": 49.00527777777778,
+        "longitude": -7.498055555555555
+    },
+    {
+        "ident": "ALVIN",
+        "latitude": 51.6625,
+        "longitude": -2.6783333333333332
+    },
+    {
+        "ident": "AMMAN",
+        "latitude": 51.84055555555556,
+        "longitude": -3.9983333333333335
+    },
+    {
+        "ident": "AMRAL",
+        "latitude": 52.11472222222223,
+        "longitude": -2.9091666666666667
+    },
+    {
+        "ident": "AMVEL",
+        "latitude": 53.18416666666666,
+        "longitude": -0.03194444444444444
+    },
+    {
+        "ident": "ANGUS",
+        "latitude": 56.69416666666666,
+        "longitude": -3.0555555555555554
+    },
+    {
+        "ident": "ANNET",
+        "latitude": 49.65138888888889,
+        "longitude": -4.001388888888889
+    },
+    {
+        "ident": "ANTEE",
+        "latitude": 52.39415277777778,
+        "longitude": 0.16581666666666667
+    },
+    {
+        "ident": "APPLE",
+        "latitude": 54.5,
+        "longitude": -2.513888888888889
+    },
+    {
+        "ident": "ARSAT",
+        "latitude": 54.535,
+        "longitude": -1.738611111111111
+    },
+    {
+        "ident": "ARTEX",
+        "latitude": 56.89472222222222,
+        "longitude": 3.9605555555555556
+    },
+    {
+        "ident": "ARTIX",
+        "latitude": 53.394999999999996,
+        "longitude": -1.0358333333333334
+    },
+    {
+        "ident": "ARTOV",
+        "latitude": 51.905277777777776,
+        "longitude": 1.4258333333333335
+    },
+    {
+        "ident": "ASKAM",
+        "latitude": 54.963055555555556,
+        "longitude": 3.2305555555555556
+    },
+    {
+        "ident": "ASNIP",
+        "latitude": 53.478611111111114,
+        "longitude": -2.907222222222222
+    },
+    {
+        "ident": "ASPEN",
+        "latitude": 50.29277777777778,
+        "longitude": -1.8055555555555556
+    },
+    {
+        "ident": "ASRAM",
+        "latitude": 52.547286111111106,
+        "longitude": 0.9499333333333333
+    },
+    {
+        "ident": "ATSIX",
+        "latitude": 60.0,
+        "longitude": -10.0
+    },
+    {
+        "ident": "AVANT",
+        "latitude": 50.82,
+        "longitude": -0.9383333333333334
+    },
+    {
+        "ident": "BABAX",
+        "latitude": 50.41972222222222,
+        "longitude": -3.804722222222222
+    },
+    {
+        "ident": "BABRA",
+        "latitude": 53.6275,
+        "longitude": -3.945277777777778
+    },
+    {
+        "ident": "BADIM",
+        "latitude": 51.64388888888889,
+        "longitude": -2.511111111111111
+    },
+    {
+        "ident": "BADSI",
+        "latitude": 52.65833333333333,
+        "longitude": -4.771388888888889
+    },
+    {
+        "ident": "BAGSO",
+        "latitude": 53.68,
+        "longitude": -5.5
+    },
+    {
+        "ident": "BAKDI",
+        "latitude": 52.46463611111111,
+        "longitude": 0.7131916666666667
+    },
+    {
+        "ident": "BAKER",
+        "latitude": 51.495,
+        "longitude": 0.2980555555555556
+    },
+    {
+        "ident": "BALDO",
+        "latitude": 52.337563888888894,
+        "longitude": 0.6174777777777778
+    },
+    {
+        "ident": "BALID",
+        "latitude": 56.496944444444445,
+        "longitude": -1.9519444444444445
+    },
+    {
+        "ident": "BALIX",
+        "latitude": 59.0,
+        "longitude": -10.0
+    },
+    {
+        "ident": "BAMRA",
+        "latitude": 59.43333333333333,
+        "longitude": -3.952777777777778
+    },
+    {
+        "ident": "BANEM",
+        "latitude": 52.33555555555556,
+        "longitude": 1.5052777777777777
+    },
+    {
+        "ident": "BANTO",
+        "latitude": 52.35777777777778,
+        "longitude": -0.2325
+    },
+    {
+        "ident": "BAPLA",
+        "latitude": 51.684238888888885,
+        "longitude": -1.754688888888889
+    },
+    {
+        "ident": "BAPVI",
+        "latitude": 52.448049999999995,
+        "longitude": 0.66595
+    },
+    {
+        "ident": "BARKU",
+        "latitude": 60.605000000000004,
+        "longitude": -9.41
+    },
+    {
+        "ident": "BARMI",
+        "latitude": 52.47833333333333,
+        "longitude": 2.5705555555555555
+    },
+    {
+        "ident": "BARTN",
+        "latitude": 53.470555555555556,
+        "longitude": -2.4280555555555554
+    },
+    {
+        "ident": "BASET",
+        "latitude": 51.56388888888888,
+        "longitude": -1.71
+    },
+    {
+        "ident": "BASID",
+        "latitude": 52.399363888888885,
+        "longitude": 0.6425222222222222
+    },
+    {
+        "ident": "BATLI",
+        "latitude": 53.645833333333336,
+        "longitude": -1.360277777777778
+    },
+    {
+        "ident": "BEDEK",
+        "latitude": 51.37083333333334,
+        "longitude": -1.5586111111111112
+    },
+    {
+        "ident": "BEDFO",
+        "latitude": 52.225,
+        "longitude": -0.5633333333333334
+    },
+    {
+        "ident": "BEDNO",
+        "latitude": 51.6838,
+        "longitude": -1.8966333333333334
+    },
+    {
+        "ident": "BEECH",
+        "latitude": 50.470555555555556,
+        "longitude": 0.21000000000000002
+    },
+    {
+        "ident": "BEGAM",
+        "latitude": 54.15694444444444,
+        "longitude": -2.1208333333333336
+    },
+    {
+        "ident": "BEGTO",
+        "latitude": 50.7625,
+        "longitude": -1.2355555555555555
+    },
+    {
+        "ident": "BEKET",
+        "latitude": 58.886944444444445,
+        "longitude": -1.5222222222222221
+    },
+    {
+        "ident": "BEKMO",
+        "latitude": 52.986111111111114,
+        "longitude": 2.6194444444444445
+    },
+    {
+        "ident": "BEKSA",
+        "latitude": 51.81777777777778,
+        "longitude": -2.546111111111111
+    },
+    {
+        "ident": "BELOX",
+        "latitude": 53.88777777777778,
+        "longitude": -3.4897222222222224
+    },
+    {
+        "ident": "BENBO",
+        "latitude": 50.45138888888889,
+        "longitude": 0.010277777777777778
+    },
+    {
+        "ident": "BENIB",
+        "latitude": 52.42479722222222,
+        "longitude": 0.5998694444444445
+    },
+    {
+        "ident": "BENSU",
+        "latitude": 51.57888888888889,
+        "longitude": -0.9188888888888889
+    },
+    {
+        "ident": "BEREK",
+        "latitude": 51.65611111111111,
+        "longitude": -1.0969444444444443
+    },
+    {
+        "ident": "BERUL",
+        "latitude": 52.67111111111111,
+        "longitude": -3.520277777777778
+    },
+    {
+        "ident": "BESGA",
+        "latitude": 60.78972222222222,
+        "longitude": -7.912777777777778
+    },
+    {
+        "ident": "BETAX",
+        "latitude": 53.009166666666665,
+        "longitude": -0.9008333333333334
+    },
+    {
+        "ident": "BEVAM",
+        "latitude": 55.731388888888894,
+        "longitude": 0.25083333333333335
+    },
+    {
+        "ident": "BEVEL",
+        "latitude": 50.415,
+        "longitude": -1.985277777777778
+    },
+    {
+        "ident": "BEWLI",
+        "latitude": 50.75861111111111,
+        "longitude": -1.8102777777777779
+    },
+    {
+        "ident": "BIGNO",
+        "latitude": 50.0,
+        "longitude": -2.8249999999999997
+    },
+    {
+        "ident": "BILLY",
+        "latitude": 60.01972222222222,
+        "longitude": -8.568888888888889
+    },
+    {
+        "ident": "BILNI",
+        "latitude": 50.67527777777777,
+        "longitude": -2.1258333333333335
+    },
+    {
+        "ident": "BILVO",
+        "latitude": 53.73111111111111,
+        "longitude": -3.185833333333333
+    },
+    {
+        "ident": "BINBO",
+        "latitude": 53.401666666666664,
+        "longitude": 3.341388888888889
+    },
+    {
+        "ident": "BINTI",
+        "latitude": 54.5625,
+        "longitude": -1.9958333333333333
+    },
+    {
+        "ident": "BLACA",
+        "latitude": 54.88333333333333,
+        "longitude": -5.158888888888889
+    },
+    {
+        "ident": "BODSO",
+        "latitude": 53.05222222222222,
+        "longitude": 2.0947222222222224
+    },
+    {
+        "ident": "BOGMI",
+        "latitude": 50.99805555555556,
+        "longitude": -7.204722222222222
+    },
+    {
+        "ident": "BOGNA",
+        "latitude": 50.70194444444445,
+        "longitude": -0.25166666666666665
+    },
+    {
+        "ident": "BOLBI",
+        "latitude": 53.46666666666667,
+        "longitude": -1.8125
+    },
+    {
+        "ident": "BOMBO",
+        "latitude": 51.995555555555555,
+        "longitude": -0.3963888888888889
+    },
+    {
+        "ident": "BONBY",
+        "latitude": 57.891666666666666,
+        "longitude": -4.343333333333333
+    },
+    {
+        "ident": "BOYNE",
+        "latitude": 53.76722222222222,
+        "longitude": -5.5
+    },
+    {
+        "ident": "BRAIN",
+        "latitude": 51.81111111111111,
+        "longitude": 0.6516666666666667
+    },
+    {
+        "ident": "BRASO",
+        "latitude": 51.68527777777778,
+        "longitude": 0.6833333333333333
+    },
+    {
+        "ident": "BRIPO",
+        "latitude": 50.7075,
+        "longitude": -2.75
+    },
+    {
+        "ident": "BRUCE",
+        "latitude": 56.23638888888889,
+        "longitude": -5.841111111111111
+    },
+    {
+        "ident": "BUDON",
+        "latitude": 57.70194444444445,
+        "longitude": -0.5619444444444445
+    },
+    {
+        "ident": "BUKUT",
+        "latitude": 52.75833333333333,
+        "longitude": 2.8005555555555555
+    },
+    {
+        "ident": "BUMUX",
+        "latitude": 50.80444444444444,
+        "longitude": -3.3494444444444444
+    },
+    {
+        "ident": "BUSIP",
+        "latitude": 51.682674999999996,
+        "longitude": -1.8297083333333333
+    },
+    {
+        "ident": "BUSTA",
+        "latitude": 52.09277777777778,
+        "longitude": 0.06777777777777777
+    },
+    {
+        "ident": "BUZAD",
+        "latitude": 51.94222222222222,
+        "longitude": -0.5522222222222223
+    },
+    {
+        "ident": "CALDA",
+        "latitude": 53.774166666666666,
+        "longitude": -2.6438888888888887
+    },
+    {
+        "ident": "CAMBO",
+        "latitude": 49.291666666666664,
+        "longitude": -5.859722222222222
+    },
+    {
+        "ident": "CAMRA",
+        "latitude": 50.62361111111111,
+        "longitude": -0.10694444444444445
+    },
+    {
+        "ident": "CARDZ",
+        "latitude": 52.31540555555555,
+        "longitude": 0.8048055555555556
+    },
+    {
+        "ident": "CASEY",
+        "latitude": 52.00861111111111,
+        "longitude": 0.5830555555555555
+    },
+    {
+        "ident": "CAVIM",
+        "latitude": 52.383322222222226,
+        "longitude": 0.33765277777777775
+    },
+    {
+        "ident": "CHASE",
+        "latitude": 52.61333333333334,
+        "longitude": -1.9172222222222222
+    },
+    {
+        "ident": "CHINN",
+        "latitude": 57.96416666666667,
+        "longitude": -4.188055555555556
+    },
+    {
+        "ident": "CHIPP",
+        "latitude": 52.31711666666667,
+        "longitude": 0.8039527777777778
+    },
+    {
+        "ident": "CLIPY",
+        "latitude": 52.00083333333333,
+        "longitude": -1.0858333333333332
+    },
+    {
+        "ident": "CLYDE",
+        "latitude": 55.96333333333334,
+        "longitude": -4.792222222222222
+    },
+    {
+        "ident": "COVEN",
+        "latitude": 52.234494444444444,
+        "longitude": 0.7730722222222223
+    },
+    {
+        "ident": "COWLY",
+        "latitude": 51.61611111111111,
+        "longitude": -1.065
+    },
+    {
+        "ident": "CROFT",
+        "latitude": 53.62694444444445,
+        "longitude": -2.5388888888888888
+    },
+    {
+        "ident": "CUMBO",
+        "latitude": 55.94277777777778,
+        "longitude": -3.958888888888889
+    },
+    {
+        "ident": "CUTEL",
+        "latitude": 55.88583333333333,
+        "longitude": 2.3744444444444444
+    },
+    {
+        "ident": "DAGGA",
+        "latitude": 51.82194444444445,
+        "longitude": 0.7941666666666667
+    },
+    {
+        "ident": "DAVOT",
+        "latitude": 57.345,
+        "longitude": -4.091388888888889
+    },
+    {
+        "ident": "DAWLY",
+        "latitude": 50.57416666666667,
+        "longitude": -3.463888888888889
+    },
+    {
+        "ident": "DENBY",
+        "latitude": 53.52027777777778,
+        "longitude": -1.961111111111111
+    },
+    {
+        "ident": "DENOG",
+        "latitude": 57.43138888888889,
+        "longitude": -1.7544444444444445
+    },
+    {
+        "ident": "DESAP",
+        "latitude": 51.68690833333333,
+        "longitude": -1.621313888888889
+    },
+    {
+        "ident": "DESIG",
+        "latitude": 53.52722222222222,
+        "longitude": -1.8927777777777777
+    },
+    {
+        "ident": "DEVAL",
+        "latitude": 50.856944444444444,
+        "longitude": 1.4666666666666668
+    },
+    {
+        "ident": "DEVBI",
+        "latitude": 60.715,
+        "longitude": -8.769444444444446
+    },
+    {
+        "ident": "DEVOM",
+        "latitude": 50.72166666666667,
+        "longitude": -3.7552777777777777
+    },
+    {
+        "ident": "DIBAL",
+        "latitude": 52.79722222222222,
+        "longitude": 2.5
+    },
+    {
+        "ident": "DIDEL",
+        "latitude": 50.84305555555556,
+        "longitude": -3.9972222222222222
+    },
+    {
+        "ident": "DIGBI",
+        "latitude": 55.184999999999995,
+        "longitude": -1.0502777777777779
+    },
+    {
+        "ident": "DIGUT",
+        "latitude": 51.650277777777774,
+        "longitude": -1.299722222222222
+    },
+    {
+        "ident": "DIKAS",
+        "latitude": 51.776944444444446,
+        "longitude": -3.2591666666666668
+    },
+    {
+        "ident": "DIMLI",
+        "latitude": 54.94638888888888,
+        "longitude": -6.615277777777777
+    },
+    {
+        "ident": "DIRGI",
+        "latitude": 60.62138888888889,
+        "longitude": -6.453888888888889
+    },
+    {
+        "ident": "DISAL",
+        "latitude": 53.29138888888889,
+        "longitude": -1.6308333333333334
+    },
+    {
+        "ident": "DISIT",
+        "latitude": 52.10305555555556,
+        "longitude": -1.7113888888888888
+    },
+    {
+        "ident": "DISRI",
+        "latitude": 51.85789722222222,
+        "longitude": -1.5124944444444444
+    },
+    {
+        "ident": "DITOB",
+        "latitude": 52.28361111111111,
+        "longitude": 1.8241666666666667
+    },
+    {
+        "ident": "DOBEM",
+        "latitude": 51.86972222222222,
+        "longitude": -2.9291666666666667
+    },
+    {
+        "ident": "DOGIT",
+        "latitude": 53.172777777777775,
+        "longitude": -3.151944444444444
+    },
+    {
+        "ident": "DOKEK",
+        "latitude": 51.42166666666667,
+        "longitude": -6.058055555555556
+    },
+    {
+        "ident": "DOLAN",
+        "latitude": 52.39277777777778,
+        "longitude": 0.27142499999999997
+    },
+    {
+        "ident": "DOLAS",
+        "latitude": 52.978611111111114,
+        "longitude": 1.0008333333333332
+    },
+    {
+        "ident": "DOLUR",
+        "latitude": 49.48444444444444,
+        "longitude": -5.057222222222222
+    },
+    {
+        "ident": "DOMUT",
+        "latitude": 50.261944444444445,
+        "longitude": -1.6691666666666665
+    },
+    {
+        "ident": "DONIB",
+        "latitude": 55.719166666666666,
+        "longitude": -7.695555555555556
+    },
+    {
+        "ident": "DOPEK",
+        "latitude": 53.38444444444444,
+        "longitude": -0.9255555555555555
+    },
+    {
+        "ident": "DOSUN",
+        "latitude": 60.1175,
+        "longitude": -6.394166666666667
+    },
+    {
+        "ident": "DOWNI",
+        "latitude": 57.0775,
+        "longitude": -2.1058333333333334
+    },
+    {
+        "ident": "DRAKE",
+        "latitude": 50.20944444444445,
+        "longitude": -0.07611111111111112
+    },
+    {
+        "ident": "EBOTO",
+        "latitude": 52.35916666666667,
+        "longitude": -0.6944444444444444
+    },
+    {
+        "ident": "ELDER",
+        "latitude": 50.663333333333334,
+        "longitude": -1.337222222222222
+    },
+    {
+        "ident": "ELNAV",
+        "latitude": 52.46852777777778,
+        "longitude": -0.042475
+    },
+    {
+        "ident": "ELRAG",
+        "latitude": 51.17444444444444,
+        "longitude": -5.105833333333333
+    },
+    {
+        "ident": "ELSAN",
+        "latitude": 56.70527777777778,
+        "longitude": 3.7327777777777778
+    },
+    {
+        "ident": "ELVOS",
+        "latitude": 52.70027777777778,
+        "longitude": -1.3069444444444445
+    },
+    {
+        "ident": "EMLON",
+        "latitude": 53.205555555555556,
+        "longitude": 2.5
+    },
+    {
+        "ident": "ENITO",
+        "latitude": 52.80138888888889,
+        "longitude": 2.4675000000000002
+    },
+    {
+        "ident": "ERAKA",
+        "latitude": 58.0,
+        "longitude": -10.0
+    },
+    {
+        "ident": "ERING",
+        "latitude": 51.59055555555556,
+        "longitude": 1.6119444444444446
+    },
+    {
+        "ident": "ERLOT",
+        "latitude": 55.28722222222222,
+        "longitude": -0.5850000000000001
+    },
+    {
+        "ident": "ERMIN",
+        "latitude": 50.34861111111111,
+        "longitude": -3.9241666666666664
+    },
+    {
+        "ident": "ERNAN",
+        "latitude": 54.278888888888886,
+        "longitude": -7.392777777777778
+    },
+    {
+        "ident": "ERNOK",
+        "latitude": 51.69166666666666,
+        "longitude": -2.945555555555556
+    },
+    {
+        "ident": "EROSI",
+        "latitude": 52.37538055555556,
+        "longitude": 0.9528777777777777
+    },
+    {
+        "ident": "ERSON",
+        "latitude": 56.46333333333334,
+        "longitude": -4.306666666666667
+    },
+    {
+        "ident": "ESKDO",
+        "latitude": 55.29888888888889,
+        "longitude": -3.204166666666667
+    },
+    {
+        "ident": "ETSOM",
+        "latitude": 57.89194444444444,
+        "longitude": -9.5
+    },
+    {
+        "ident": "EVSOM",
+        "latitude": 51.89774722222222,
+        "longitude": -1.9994027777777779
+    },
+    {
+        "ident": "EVSON",
+        "latitude": 53.3575,
+        "longitude": -1.663611111111111
+    },
+    {
+        "ident": "EXMOR",
+        "latitude": 51.17861111111111,
+        "longitude": -3.3597222222222225
+    },
+    {
+        "ident": "FASET",
+        "latitude": 52.48827222222222,
+        "longitude": 0.2005638888888889
+    },
+    {
+        "ident": "FENIK",
+        "latitude": 55.71527777777778,
+        "longitude": -4.291944444444444
+    },
+    {
+        "ident": "FERIT",
+        "latitude": 51.63305555555556,
+        "longitude": 0.5391666666666667
+    },
+    {
+        "ident": "FINCH",
+        "latitude": 51.559999999999995,
+        "longitude": -0.18305555555555555
+    },
+    {
+        "ident": "FINDO",
+        "latitude": 56.369166666666665,
+        "longitude": -3.463611111111111
+    },
+    {
+        "ident": "FINMA",
+        "latitude": 51.99638888888889,
+        "longitude": -1.053611111111111
+    },
+    {
+        "ident": "FIWUD",
+        "latitude": 53.86833333333333,
+        "longitude": -3.0683333333333334
+    },
+    {
+        "ident": "FORTY",
+        "latitude": 57.95,
+        "longitude": 0.5958333333333333
+    },
+    {
+        "ident": "FOYLE",
+        "latitude": 56.14277777777778,
+        "longitude": -4.382222222222222
+    },
+    {
+        "ident": "FRANK",
+        "latitude": 51.70722222222223,
+        "longitude": -0.6861111111111111
+    },
+    {
+        "ident": "FULMA",
+        "latitude": 55.506388888888885,
+        "longitude": -5.0
+    },
+    {
+        "ident": "FYNER",
+        "latitude": 56.04888888888889,
+        "longitude": -5.115277777777777
+    },
+    {
+        "ident": "GANBE",
+        "latitude": 52.36667222222222,
+        "longitude": 0.45355833333333334
+    },
+    {
+        "ident": "GAPLI",
+        "latitude": 50.0,
+        "longitude": -8.0
+    },
+    {
+        "ident": "GARMI",
+        "latitude": 50.0,
+        "longitude": -1.3805555555555555
+    },
+    {
+        "ident": "GARVA",
+        "latitude": 57.68833333333333,
+        "longitude": -4.494722222222222
+    },
+    {
+        "ident": "GASKO",
+        "latitude": 54.224722222222226,
+        "longitude": -1.9558333333333333
+    },
+    {
+        "ident": "GATRA",
+        "latitude": 51.297777777777775,
+        "longitude": -6.631944444444445
+    },
+    {
+        "ident": "GAVEL",
+        "latitude": 59.38333333333333,
+        "longitude": -1.406111111111111
+    },
+    {
+        "ident": "GEPLI",
+        "latitude": 51.682383333333334,
+        "longitude": -1.8297277777777778
+    },
+    {
+        "ident": "GETNO",
+        "latitude": 53.93,
+        "longitude": -3.4963888888888888
+    },
+    {
+        "ident": "GIBSO",
+        "latitude": 50.749722222222225,
+        "longitude": -2.518611111111111
+    },
+    {
+        "ident": "GIBSU",
+        "latitude": 56.76305555555555,
+        "longitude": 3.2694444444444444
+    },
+    {
+        "ident": "GIGUL",
+        "latitude": 54.60722222222223,
+        "longitude": 3.1694444444444443
+    },
+    {
+        "ident": "GILDA",
+        "latitude": 51.60166666666667,
+        "longitude": 0.5836111111111112
+    },
+    {
+        "ident": "GILPA",
+        "latitude": 55.92805555555555,
+        "longitude": -5.878611111111112
+    },
+    {
+        "ident": "GILTI",
+        "latitude": 51.57027777777778,
+        "longitude": 2.0549999999999997
+    },
+    {
+        "ident": "GINGA",
+        "latitude": 56.925,
+        "longitude": -9.5
+    },
+    {
+        "ident": "GINIS",
+        "latitude": 53.46083333333333,
+        "longitude": -4.858055555555556
+    },
+    {
+        "ident": "GIRLI",
+        "latitude": 54.71138888888889,
+        "longitude": -1.8030555555555556
+    },
+    {
+        "ident": "GIRVA",
+        "latitude": 55.18555555555555,
+        "longitude": -4.896388888888889
+    },
+    {
+        "ident": "GISOK",
+        "latitude": 51.5025,
+        "longitude": -5.124444444444444
+    },
+    {
+        "ident": "GITUS",
+        "latitude": 50.333333333333336,
+        "longitude": -5.7
+    },
+    {
+        "ident": "GIVEM",
+        "latitude": 55.465,
+        "longitude": 0.24805555555555556
+    },
+    {
+        "ident": "GIVPO",
+        "latitude": 53.28611111111111,
+        "longitude": 2.8691666666666666
+    },
+    {
+        "ident": "GLESK",
+        "latitude": 56.9,
+        "longitude": -2.7958333333333334
+    },
+    {
+        "ident": "GODSU",
+        "latitude": 52.27288333333333,
+        "longitude": 0.2700222222222222
+    },
+    {
+        "ident": "GOLES",
+        "latitude": 53.60805555555556,
+        "longitude": -1.0833333333333333
+    },
+    {
+        "ident": "GOLVO",
+        "latitude": 54.41138888888889,
+        "longitude": 3.5855555555555556
+    },
+    {
+        "ident": "GOMOT",
+        "latitude": 55.919444444444444,
+        "longitude": -0.5441666666666667
+    },
+    {
+        "ident": "GOMUP",
+        "latitude": 57.0,
+        "longitude": -10.0
+    },
+    {
+        "ident": "GONAN",
+        "latitude": 51.99845,
+        "longitude": -2.0942333333333334
+    },
+    {
+        "ident": "GONUT",
+        "latitude": 61.0,
+        "longitude": -4.583333333333333
+    },
+    {
+        "ident": "GOTNA",
+        "latitude": 54.594722222222224,
+        "longitude": -5.598055555555555
+    },
+    {
+        "ident": "GRICE",
+        "latitude": 56.196666666666665,
+        "longitude": -3.6855555555555557
+    },
+    {
+        "ident": "GUMSO",
+        "latitude": 52.38449444444444,
+        "longitude": 0.267975
+    },
+    {
+        "ident": "GUNGU",
+        "latitude": 52.51428333333333,
+        "longitude": 0.8551305555555555
+    },
+    {
+        "ident": "GUSSI",
+        "latitude": 57.213055555555556,
+        "longitude": -4.1241666666666665
+    },
+    {
+        "ident": "HALIF",
+        "latitude": 53.735,
+        "longitude": -1.5805555555555555
+    },
+    {
+        "ident": "HANKY",
+        "latitude": 51.11277777777778,
+        "longitude": -1.1308333333333334
+    },
+    {
+        "ident": "HARDY",
+        "latitude": 50.471111111111114,
+        "longitude": 0.4911111111111111
+    },
+    {
+        "ident": "HARLY",
+        "latitude": 52.24010833333333,
+        "longitude": 0.7446416666666666
+    },
+    {
+        "ident": "HASTY",
+        "latitude": 50.72833333333333,
+        "longitude": 0.5333333333333334
+    },
+    {
+        "ident": "HAVEN",
+        "latitude": 55.461111111111116,
+        "longitude": -2.9963888888888888
+    },
+    {
+        "ident": "HAWKE",
+        "latitude": 50.37416666666667,
+        "longitude": 0.09027777777777778
+    },
+    {
+        "ident": "HAZEL",
+        "latitude": 51.00527777777778,
+        "longitude": -0.9844444444444443
+    },
+    {
+        "ident": "HEIDI",
+        "latitude": 52.11222222222222,
+        "longitude": -0.6233333333333334
+    },
+    {
+        "ident": "HEMEL",
+        "latitude": 51.80555555555555,
+        "longitude": -0.41944444444444445
+    },
+    {
+        "ident": "HERON",
+        "latitude": 55.34305555555556,
+        "longitude": -5.0
+    },
+    {
+        "ident": "HICUS",
+        "latitude": 52.35480833333334,
+        "longitude": 0.5356444444444445
+    },
+    {
+        "ident": "IBDUK",
+        "latitude": 51.68971944444444,
+        "longitude": -2.199097222222222
+    },
+    {
+        "ident": "IDESI",
+        "latitude": 51.897777777777776,
+        "longitude": 1.8855555555555554
+    },
+    {
+        "ident": "IDOKI",
+        "latitude": 49.86027777777778,
+        "longitude": -6.194166666666667
+    },
+    {
+        "ident": "INDIV",
+        "latitude": 52.28514722222222,
+        "longitude": 0.25550833333333334
+    },
+    {
+        "ident": "INLAK",
+        "latitude": 51.47805555555556,
+        "longitude": -1.5241666666666667
+    },
+    {
+        "ident": "INPOT",
+        "latitude": 52.44347777777777,
+        "longitude": 0.19926944444444444
+    },
+    {
+        "ident": "INPUT",
+        "latitude": 55.305,
+        "longitude": 4.6513888888888895
+    },
+    {
+        "ident": "INSUN",
+        "latitude": 50.39527777777778,
+        "longitude": -6.323333333333333
+    },
+    {
+        "ident": "IPRIL",
+        "latitude": 51.67472222222222,
+        "longitude": -0.2263888888888889
+    },
+    {
+        "ident": "IRKUM",
+        "latitude": 52.99666666666667,
+        "longitude": -5.3774999999999995
+    },
+    {
+        "ident": "ITSUX",
+        "latitude": 56.05,
+        "longitude": 3.5
+    },
+    {
+        "ident": "JACKO",
+        "latitude": 51.73583333333333,
+        "longitude": 1.4266666666666667
+    },
+    {
+        "ident": "JIMBO",
+        "latitude": 52.25037777777778,
+        "longitude": 0.6032333333333333
+    },
+    {
+        "ident": "KAPEX",
+        "latitude": 50.675,
+        "longitude": -1.85
+    },
+    {
+        "ident": "KARNO",
+        "latitude": 52.894444444444446,
+        "longitude": -2.8983333333333334
+    },
+    {
+        "ident": "KATHY",
+        "latitude": 50.52055555555555,
+        "longitude": -1.3333333333333333
+    },
+    {
+        "ident": "KEGUN",
+        "latitude": 53.192499999999995,
+        "longitude": -3.1502777777777777
+    },
+    {
+        "ident": "KELLY",
+        "latitude": 53.905277777777776,
+        "longitude": -4.364166666666667
+    },
+    {
+        "ident": "KEMPY",
+        "latitude": 52.1275,
+        "longitude": 0.6461111111111111
+    },
+    {
+        "ident": "KENET",
+        "latitude": 51.52055555555555,
+        "longitude": -1.4549999999999998
+    },
+    {
+        "ident": "KEPAD",
+        "latitude": 52.80972222222222,
+        "longitude": -2.478888888888889
+    },
+    {
+        "ident": "KESEG",
+        "latitude": 60.01611111111111,
+        "longitude": -6.015555555555555
+    },
+    {
+        "ident": "KESUP",
+        "latitude": 51.32555555555556,
+        "longitude": -3.654722222222222
+    },
+    {
+        "ident": "KIDLI",
+        "latitude": 51.771388888888886,
+        "longitude": -1.361388888888889
+    },
+    {
+        "ident": "KISTA",
+        "latitude": 59.50833333333333,
+        "longitude": -1.9494444444444445
+    },
+    {
+        "ident": "KOKAL",
+        "latitude": 58.959722222222226,
+        "longitude": -2.8938888888888887
+    },
+    {
+        "ident": "KOLAG",
+        "latitude": 53.04361111111111,
+        "longitude": 3.255
+    },
+    {
+        "ident": "KOLID",
+        "latitude": 53.573888888888895,
+        "longitude": -2.7558333333333334
+    },
+    {
+        "ident": "KONAN",
+        "latitude": 51.130833333333335,
+        "longitude": 2.0
+    },
+    {
+        "ident": "KOPUL",
+        "latitude": 51.54222222222222,
+        "longitude": 1.1372222222222221
+    },
+    {
+        "ident": "KOVAP",
+        "latitude": 52.37809166666667,
+        "longitude": 0.3351611111111111
+    },
+    {
+        "ident": "KOXIP",
+        "latitude": 51.82576666666667,
+        "longitude": -1.931925
+    },
+    {
+        "ident": "KUBAX",
+        "latitude": 52.94277777777778,
+        "longitude": 2.9536111111111114
+    },
+    {
+        "ident": "KUMIL",
+        "latitude": 50.57527777777778,
+        "longitude": -1.6108333333333333
+    },
+    {
+        "ident": "LAGAV",
+        "latitude": 56.893055555555556,
+        "longitude": -4.202777777777778
+    },
+    {
+        "ident": "LAKEY",
+        "latitude": 54.23888888888889,
+        "longitude": -2.9811111111111113
+    },
+    {
+        "ident": "LAMAT",
+        "latitude": 51.301944444444445,
+        "longitude": -3.0175
+    },
+    {
+        "ident": "LAMIX",
+        "latitude": 53.308055555555555,
+        "longitude": -0.6822222222222222
+    },
+    {
+        "ident": "LAMMA",
+        "latitude": 55.858333333333334,
+        "longitude": -2.7675
+    },
+    {
+        "ident": "LAMRO",
+        "latitude": 57.030833333333334,
+        "longitude": 3.5524999999999998
+    },
+    {
+        "ident": "LAMSO",
+        "latitude": 52.73277777777778,
+        "longitude": 2.9944444444444445
+    },
+    {
+        "ident": "LANAK",
+        "latitude": 55.70027777777778,
+        "longitude": -3.9386111111111113
+    },
+    {
+        "ident": "LANON",
+        "latitude": 52.43111111111111,
+        "longitude": -4.3725
+    },
+    {
+        "ident": "LAPRA",
+        "latitude": 52.118611111111115,
+        "longitude": 1.21
+    },
+    {
+        "ident": "LARDI",
+        "latitude": 53.60444444444445,
+        "longitude": 3.515833333333333
+    },
+    {
+        "ident": "LARGA",
+        "latitude": 54.86388888888889,
+        "longitude": 4.153333333333333
+    },
+    {
+        "ident": "LARLA",
+        "latitude": 49.378055555555555,
+        "longitude": -7.120833333333333
+    },
+    {
+        "ident": "LBRTY",
+        "latitude": 52.72060833333334,
+        "longitude": 1.4178388888888889
+    },
+    {
+        "ident": "LEDBO",
+        "latitude": 52.543055555555554,
+        "longitude": 2.102222222222222
+    },
+    {
+        "ident": "LEDGO",
+        "latitude": 51.24,
+        "longitude": -7.5680555555555555
+    },
+    {
+        "ident": "LEGRO",
+        "latitude": 53.32638888888889,
+        "longitude": 1.5127777777777778
+    },
+    {
+        "ident": "LEKLO",
+        "latitude": 51.68680833333333,
+        "longitude": -1.6371555555555555
+    },
+    {
+        "ident": "LESLU",
+        "latitude": 51.0,
+        "longitude": -8.0
+    },
+    {
+        "ident": "LESTA",
+        "latitude": 52.740833333333335,
+        "longitude": -1.0719444444444444
+    },
+    {
+        "ident": "LIBSO",
+        "latitude": 53.52472222222222,
+        "longitude": 0.09333333333333332
+    },
+    {
+        "ident": "LINDY",
+        "latitude": 51.470555555555556,
+        "longitude": -1.0491666666666668
+    },
+    {
+        "ident": "LIPGO",
+        "latitude": 53.06388888888888,
+        "longitude": -5.5
+    },
+    {
+        "ident": "LIRKI",
+        "latitude": 61.0,
+        "longitude": -1.85
+    },
+    {
+        "ident": "LISTO",
+        "latitude": 53.14333333333333,
+        "longitude": -2.1991666666666663
+    },
+    {
+        "ident": "LOGAN",
+        "latitude": 51.7475,
+        "longitude": 1.6119444444444446
+    },
+    {
+        "ident": "LOMON",
+        "latitude": 56.062777777777775,
+        "longitude": -4.58
+    },
+    {
+        "ident": "LOREL",
+        "latitude": 52.013888888888886,
+        "longitude": -0.05277777777777778
+    },
+    {
+        "ident": "LOVEL",
+        "latitude": 53.251666666666665,
+        "longitude": -2.2744444444444443
+    },
+    {
+        "ident": "LUCCO",
+        "latitude": 50.69166666666666,
+        "longitude": -1.1083333333333334
+    },
+    {
+        "ident": "LUGED",
+        "latitude": 52.45201111111111,
+        "longitude": 0.6632888888888889
+    },
+    {
+        "ident": "LULOX",
+        "latitude": 50.36666666666667,
+        "longitude": -8.0
+    },
+    {
+        "ident": "LUMOX",
+        "latitude": 51.68512222222222,
+        "longitude": -1.9608666666666665
+    },
+    {
+        "ident": "LYNAS",
+        "latitude": 53.442499999999995,
+        "longitude": -4.333333333333333
+    },
+    {
+        "ident": "MABUG",
+        "latitude": 49.78472222222222,
+        "longitude": -5.9366666666666665
+    },
+    {
+        "ident": "MADAD",
+        "latitude": 55.91305555555555,
+        "longitude": -1.733888888888889
+    },
+    {
+        "ident": "MALBY",
+        "latitude": 51.5925,
+        "longitude": -2.0616666666666665
+    },
+    {
+        "ident": "MALUD",
+        "latitude": 53.413333333333334,
+        "longitude": -3.6083333333333334
+    },
+    {
+        "ident": "MAMUL",
+        "latitude": 53.418055555555554,
+        "longitude": -1.28
+    },
+    {
+        "ident": "MANGO",
+        "latitude": 51.69277777777778,
+        "longitude": 0.7905555555555556
+    },
+    {
+        "ident": "MANIG",
+        "latitude": 49.78527777777778,
+        "longitude": -3.2594444444444446
+    },
+    {
+        "ident": "MAPLE",
+        "latitude": 52.39333333333333,
+        "longitude": -1.6808333333333332
+    },
+    {
+        "ident": "MARGO",
+        "latitude": 54.7075,
+        "longitude": -2.774722222222222
+    },
+    {
+        "ident": "MARUK",
+        "latitude": 50.24638888888889,
+        "longitude": -2.0722222222222224
+    },
+    {
+        "ident": "MASOP",
+        "latitude": 54.155833333333334,
+        "longitude": -4.354166666666666
+    },
+    {
+        "ident": "MATCH",
+        "latitude": 51.77916666666667,
+        "longitude": 0.25
+    },
+    {
+        "ident": "MATIK",
+        "latitude": 61.0,
+        "longitude": -8.066666666666666
+    },
+    {
+        "ident": "MAVIX",
+        "latitude": 55.84722222222222,
+        "longitude": -4.080555555555556
+    },
+    {
+        "ident": "MEDOG",
+        "latitude": 51.95027777777778,
+        "longitude": -3.549444444444444
+    },
+    {
+        "ident": "MERLY",
+        "latitude": 51.333333333333336,
+        "longitude": -5.0
+    },
+    {
+        "ident": "METLE",
+        "latitude": 52.34045555555556,
+        "longitude": 0.6342055555555556
+    },
+    {
+        "ident": "MIKEL",
+        "latitude": 54.275,
+        "longitude": -4.862777777777778
+    },
+    {
+        "ident": "MIMBI",
+        "latitude": 51.549166666666665,
+        "longitude": -1.6933333333333334
+    },
+    {
+        "ident": "MIMKU",
+        "latitude": 56.0,
+        "longitude": -10.0
+    },
+    {
+        "ident": "MIMVA",
+        "latitude": 53.100833333333334,
+        "longitude": 3.303611111111111
+    },
+    {
+        "ident": "MITSO",
+        "latitude": 53.651944444444446,
+        "longitude": -0.8938888888888888
+    },
+    {
+        "ident": "MOCHA",
+        "latitude": 59.54888888888889,
+        "longitude": -1.3663888888888889
+    },
+    {
+        "ident": "MODGO",
+        "latitude": 60.445277777777775,
+        "longitude": -7.665277777777778
+    },
+    {
+        "ident": "MOGLI",
+        "latitude": 52.30833333333333,
+        "longitude": -0.26916666666666667
+    },
+    {
+        "ident": "MOLIX",
+        "latitude": 52.82194444444445,
+        "longitude": 3.068611111111111
+    },
+    {
+        "ident": "MONTY",
+        "latitude": 52.89277777777778,
+        "longitude": -3.1738888888888885
+    },
+    {
+        "ident": "MOPAT",
+        "latitude": 51.49861111111111,
+        "longitude": -7.093611111111111
+    },
+    {
+        "ident": "MORAY",
+        "latitude": 58.083333333333336,
+        "longitude": -2.8216666666666663
+    },
+    {
+        "ident": "MORBY",
+        "latitude": 53.919444444444444,
+        "longitude": -3.4833333333333334
+    },
+    {
+        "ident": "NADIR",
+        "latitude": 57.82416666666667,
+        "longitude": 0.0
+    },
+    {
+        "ident": "NAKID",
+        "latitude": 49.715,
+        "longitude": -4.623055555555556
+    },
+    {
+        "ident": "NALAX",
+        "latitude": 53.483333333333334,
+        "longitude": 0.40166666666666667
+    },
+    {
+        "ident": "NANTI",
+        "latitude": 53.1375,
+        "longitude": -2.5669444444444443
+    },
+    {
+        "ident": "NAPEX",
+        "latitude": 53.20638888888889,
+        "longitude": -0.861111111111111
+    },
+    {
+        "ident": "NATEB",
+        "latitude": 55.038333333333334,
+        "longitude": -1.6983333333333333
+    },
+    {
+        "ident": "NATKO",
+        "latitude": 53.45333333333333,
+        "longitude": -4.635277777777778
+    },
+    {
+        "ident": "NAVEL",
+        "latitude": 55.58694444444445,
+        "longitude": 0.8419444444444445
+    },
+    {
+        "ident": "NEDEX",
+        "latitude": 51.87694444444445,
+        "longitude": -1.4722222222222223
+    },
+    {
+        "ident": "NEDUL",
+        "latitude": 50.66611111111111,
+        "longitude": -1.5477777777777777
+    },
+    {
+        "ident": "NEKAP",
+        "latitude": 51.72638888888889,
+        "longitude": -5.290555555555556
+    },
+    {
+        "ident": "NELBO",
+        "latitude": 54.49,
+        "longitude": -5.302777777777778
+    },
+    {
+        "ident": "NELSA",
+        "latitude": 53.86333333333334,
+        "longitude": -2.1847222222222222
+    },
+    {
+        "ident": "NEPSO",
+        "latitude": 54.238055555555555,
+        "longitude": 1.2697222222222222
+    },
+    {
+        "ident": "NESDI",
+        "latitude": 57.12166666666667,
+        "longitude": -4.146666666666667
+    },
+    {
+        "ident": "NEVIS",
+        "latitude": 56.695277777777775,
+        "longitude": -4.544722222222222
+    },
+    {
+        "ident": "NEVRI",
+        "latitude": 54.068333333333335,
+        "longitude": -6.27
+    },
+    {
+        "ident": "NEXUS",
+        "latitude": 56.21194444444445,
+        "longitude": -1.8447222222222224
+    },
+    {
+        "ident": "NIGIT",
+        "latitude": 51.31305555555555,
+        "longitude": -1.1708333333333334
+    },
+    {
+        "ident": "NIGOL",
+        "latitude": 54.905,
+        "longitude": 2.4922222222222223
+    },
+    {
+        "ident": "NILON",
+        "latitude": 51.596111111111114,
+        "longitude": 0.6344444444444444
+    },
+    {
+        "ident": "NIMAT",
+        "latitude": 53.965,
+        "longitude": -5.742222222222222
+    },
+    {
+        "ident": "NINEX",
+        "latitude": 58.855555555555554,
+        "longitude": -9.5
+    },
+    {
+        "ident": "NITON",
+        "latitude": 52.55333333333333,
+        "longitude": -3.200277777777778
+    },
+    {
+        "ident": "NOKIN",
+        "latitude": 53.07666666666667,
+        "longitude": -2.8827777777777777
+    },
+    {
+        "ident": "NORD",
+        "latitude": 52.67637777777777,
+        "longitude": 0.12706111111111112
+    },
+    {
+        "ident": "NORRY",
+        "latitude": 51.47972222222222,
+        "longitude": -1.1233333333333333
+    },
+    {
+        "ident": "NOTRO",
+        "latitude": 50.43666666666666,
+        "longitude": -3.1725
+    },
+    {
+        "ident": "NUBRI",
+        "latitude": 51.338055555555556,
+        "longitude": -1.2322222222222223
+    },
+    {
+        "ident": "NUMPI",
+        "latitude": 54.144444444444446,
+        "longitude": -5.593333333333333
+    },
+    {
+        "ident": "NUMPO",
+        "latitude": 51.61,
+        "longitude": -3.283611111111111
+    },
+    {
+        "ident": "OBOXA",
+        "latitude": 54.17666666666666,
+        "longitude": -1.9055555555555554
+    },
+    {
+        "ident": "ODMIX",
+        "latitude": 56.97,
+        "longitude": 1.4675
+    },
+    {
+        "ident": "ODROB",
+        "latitude": 51.65416666666667,
+        "longitude": 1.9124999999999999
+    },
+    {
+        "ident": "OGDIN",
+        "latitude": 53.846944444444446,
+        "longitude": 0.5808333333333333
+    },
+    {
+        "ident": "OKAMA",
+        "latitude": 53.170833333333334,
+        "longitude": 2.772777777777778
+    },
+    {
+        "ident": "OKESI",
+        "latitude": 51.44333333333333,
+        "longitude": -2.0616666666666665
+    },
+    {
+        "ident": "OKTEM",
+        "latitude": 52.71944444444445,
+        "longitude": -3.1875
+    },
+    {
+        "ident": "OLKER",
+        "latitude": 61.0,
+        "longitude": -6.5
+    },
+    {
+        "ident": "OLNEY",
+        "latitude": 52.12777777777778,
+        "longitude": -0.7341666666666666
+    },
+    {
+        "ident": "ORSUM",
+        "latitude": 57.051944444444445,
+        "longitude": -5.294722222222222
+    },
+    {
+        "ident": "ORVIK",
+        "latitude": 59.638333333333335,
+        "longitude": 0.6691666666666666
+    },
+    {
+        "ident": "OSGOD",
+        "latitude": 51.78388888888889,
+        "longitude": -1.9191666666666665
+    },
+    {
+        "ident": "OSPOL",
+        "latitude": 50.15,
+        "longitude": -0.18555555555555553
+    },
+    {
+        "ident": "OTBED",
+        "latitude": 53.28805555555555,
+        "longitude": 0.03194444444444444
+    },
+    {
+        "ident": "OTBUN",
+        "latitude": 55.28055555555555,
+        "longitude": -2.433333333333333
+    },
+    {
+        "ident": "OTROS",
+        "latitude": 52.34589722222223,
+        "longitude": 0.4216138888888889
+    },
+    {
+        "ident": "PAVLO",
+        "latitude": 50.93472222222222,
+        "longitude": -5.895555555555555
+    },
+    {
+        "ident": "PEDIG",
+        "latitude": 52.74666666666667,
+        "longitude": -1.7194444444444446
+    },
+    {
+        "ident": "PELET",
+        "latitude": 54.65333333333333,
+        "longitude": 3.431111111111111
+    },
+    {
+        "ident": "PEMAK",
+        "latitude": 49.44888888888889,
+        "longitude": -6.218055555555556
+    },
+    {
+        "ident": "PEMOB",
+        "latitude": 52.14388888888889,
+        "longitude": -5.161388888888889
+    },
+    {
+        "ident": "PENIL",
+        "latitude": 53.615833333333335,
+        "longitude": -3.663611111111111
+    },
+    {
+        "ident": "PEPIN",
+        "latitude": 59.99194444444444,
+        "longitude": 0.015
+    },
+    {
+        "ident": "PEPIS",
+        "latitude": 51.196666666666665,
+        "longitude": -1.2436111111111112
+    },
+    {
+        "ident": "PEPOV",
+        "latitude": 58.176944444444445,
+        "longitude": 1.7152777777777777
+    },
+    {
+        "ident": "PEPUL",
+        "latitude": 52.2675,
+        "longitude": -1.8872222222222221
+    },
+    {
+        "ident": "PERUP",
+        "latitude": 51.70944444444445,
+        "longitude": -2.9422222222222225
+    },
+    {
+        "ident": "PHILI",
+        "latitude": 49.47527777777778,
+        "longitude": -7.021388888888889
+    },
+    {
+        "ident": "PILIP",
+        "latitude": 50.33416666666667,
+        "longitude": -1.0072222222222222
+    },
+    {
+        "ident": "PIPAR",
+        "latitude": 56.11666666666667,
+        "longitude": -3.2016666666666667
+    },
+    {
+        "ident": "PIPEM",
+        "latitude": 58.156388888888884,
+        "longitude": -3.738611111111111
+    },
+    {
+        "ident": "PIPIN",
+        "latitude": 52.61,
+        "longitude": -0.9416666666666667
+    },
+    {
+        "ident": "PIXUP",
+        "latitude": 52.030833333333334,
+        "longitude": -1.1111111111111112
+    },
+    {
+        "ident": "POMPI",
+        "latitude": 50.763333333333335,
+        "longitude": -0.9541666666666666
+    },
+    {
+        "ident": "POTON",
+        "latitude": 52.08444444444444,
+        "longitude": -0.4272222222222222
+    },
+    {
+        "ident": "RAMID",
+        "latitude": 52.95777777777778,
+        "longitude": 2.5
+    },
+    {
+        "ident": "RAMOX",
+        "latitude": 53.66027777777778,
+        "longitude": -4.839444444444444
+    },
+    {
+        "ident": "RANOK",
+        "latitude": 56.7,
+        "longitude": -4.249722222222222
+    },
+    {
+        "ident": "RAPIX",
+        "latitude": 51.443888888888885,
+        "longitude": 2.0
+    },
+    {
+        "ident": "RAPUM",
+        "latitude": 54.92166666666667,
+        "longitude": -1.8827777777777779
+    },
+    {
+        "ident": "RATKA",
+        "latitude": 49.5,
+        "longitude": -8.0
+    },
+    {
+        "ident": "RATLO",
+        "latitude": 51.99138888888889,
+        "longitude": 1.6819444444444442
+    },
+    {
+        "ident": "RATSU",
+        "latitude": 61.0,
+        "longitude": -10.0
+    },
+    {
+        "ident": "RAVLO",
+        "latitude": 52.91694444444444,
+        "longitude": 3.1483333333333334
+    },
+    {
+        "ident": "REDFA",
+        "latitude": 52.11472222222223,
+        "longitude": 2.4880555555555555
+    },
+    {
+        "ident": "REKNA",
+        "latitude": 56.17472222222222,
+        "longitude": 3.5
+    },
+    {
+        "ident": "REMSI",
+        "latitude": 53.96027777777778,
+        "longitude": -3.8255555555555554
+    },
+    {
+        "ident": "RETSI",
+        "latitude": 52.51166666666666,
+        "longitude": -2.8758333333333335
+    },
+    {
+        "ident": "REXAM",
+        "latitude": 53.06666666666667,
+        "longitude": -3.1602777777777775
+    },
+    {
+        "ident": "RIBEL",
+        "latitude": 54.01611111111111,
+        "longitude": -2.289722222222222
+    },
+    {
+        "ident": "RIGDI",
+        "latitude": 50.270833333333336,
+        "longitude": -5.991388888888889
+    },
+    {
+        "ident": "RIGVU",
+        "latitude": 58.79333333333333,
+        "longitude": 2.155
+    },
+    {
+        "ident": "RIKUD",
+        "latitude": 54.49444444444445,
+        "longitude": -1.0355555555555556
+    },
+    {
+        "ident": "RILES",
+        "latitude": 51.948611111111106,
+        "longitude": -2.9227777777777777
+    },
+    {
+        "ident": "RIMBU",
+        "latitude": 51.70611111111111,
+        "longitude": 2.1619444444444444
+    },
+    {
+        "ident": "RIMTO",
+        "latitude": 53.7175,
+        "longitude": -1.4330555555555555
+    },
+    {
+        "ident": "RINGA",
+        "latitude": 54.39833333333333,
+        "longitude": -5.571111111111111
+    },
+    {
+        "ident": "RINIS",
+        "latitude": 51.90833333333333,
+        "longitude": 2.3225
+    },
+    {
+        "ident": "RINTI",
+        "latitude": 51.032777777777774,
+        "longitude": 1.6155555555555556
+    },
+    {
+        "ident": "RISLA",
+        "latitude": 53.030833333333334,
+        "longitude": -2.8866666666666667
+    },
+    {
+        "ident": "RIVOT",
+        "latitude": 56.408055555555556,
+        "longitude": 0.7769444444444445
+    },
+    {
+        "ident": "ROBBO",
+        "latitude": 55.88972222222222,
+        "longitude": -4.910277777777778
+    },
+    {
+        "ident": "ROBEM",
+        "latitude": 55.45916666666667,
+        "longitude": -1.0205555555555554
+    },
+    {
+        "ident": "ROBIN",
+        "latitude": 52.96333333333334,
+        "longitude": -1.2958333333333332
+    },
+    {
+        "ident": "ROBLI",
+        "latitude": 52.404263888888885,
+        "longitude": 0.5777111111111111
+    },
+    {
+        "ident": "RODNI",
+        "latitude": 51.715833333333336,
+        "longitude": -0.8616666666666667
+    },
+    {
+        "ident": "RODOL",
+        "latitude": 53.238055555555555,
+        "longitude": -1.8619444444444446
+    },
+    {
+        "ident": "RODSI",
+        "latitude": 54.79888888888889,
+        "longitude": 2.8930555555555557
+    },
+    {
+        "ident": "ROGAG",
+        "latitude": 53.235,
+        "longitude": -0.29583333333333334
+    },
+    {
+        "ident": "ROGBI",
+        "latitude": 52.296388888888885,
+        "longitude": -1.335
+    },
+    {
+        "ident": "ROKAN",
+        "latitude": 53.663333333333334,
+        "longitude": 3.1888888888888887
+    },
+    {
+        "ident": "ROKSI",
+        "latitude": 50.50361111111111,
+        "longitude": -2.214166666666667
+    },
+    {
+        "ident": "ROLEX",
+        "latitude": 53.42833333333333,
+        "longitude": -3.967777777777778
+    },
+    {
+        "ident": "ROLUM",
+        "latitude": 54.30555555555555,
+        "longitude": 3.308611111111111
+    },
+    {
+        "ident": "ROMPA",
+        "latitude": 54.0,
+        "longitude": 3.5922222222222224
+    },
+    {
+        "ident": "RONAR",
+        "latitude": 57.53055555555555,
+        "longitude": -5.655277777777778
+    },
+    {
+        "ident": "ROPAL",
+        "latitude": 55.13805555555555,
+        "longitude": 3.945277777777778
+    },
+    {
+        "ident": "ROTEV",
+        "latitude": 54.028888888888886,
+        "longitude": -6.066111111111111
+    },
+    {
+        "ident": "ROTNO",
+        "latitude": 50.85722222222223,
+        "longitude": 0.7780555555555556
+    },
+    {
+        "ident": "ROWAN",
+        "latitude": 51.7525,
+        "longitude": 0.24916666666666668
+    },
+    {
+        "ident": "ROXAT",
+        "latitude": 53.41361111111111,
+        "longitude": 3.0
+    },
+    {
+        "ident": "RUBEX",
+        "latitude": 55.32,
+        "longitude": -6.935277777777778
+    },
+    {
+        "ident": "RUBMI",
+        "latitude": 50.279444444444444,
+        "longitude": -2.328611111111111
+    },
+    {
+        "ident": "RUGID",
+        "latitude": 57.369166666666665,
+        "longitude": -4.89861111111111
+    },
+    {
+        "ident": "SABER",
+        "latitude": 51.70388888888889,
+        "longitude": 0.9494444444444444
+    },
+    {
+        "ident": "SANDY",
+        "latitude": 51.064166666666665,
+        "longitude": 1.0675
+    },
+    {
+        "ident": "SAPCO",
+        "latitude": 52.540277777777774,
+        "longitude": -1.3569444444444445
+    },
+    {
+        "ident": "SAPOT",
+        "latitude": 59.26111111111111,
+        "longitude": -2.3808333333333334
+    },
+    {
+        "ident": "SETEL",
+        "latitude": 54.0125,
+        "longitude": -2.4358333333333335
+    },
+    {
+        "ident": "SHAPP",
+        "latitude": 54.5,
+        "longitude": -2.627222222222222
+    },
+    {
+        "ident": "SHUTR",
+        "latitude": 52.43977222222222,
+        "longitude": 0.19804166666666664
+    },
+    {
+        "ident": "SIERA",
+        "latitude": 50.83657222222222,
+        "longitude": -1.4404861111111111
+    },
+    {
+        "ident": "SILVA",
+        "latitude": 51.847500000000004,
+        "longitude": -1.0052777777777777
+    },
+    {
+        "ident": "SIREN",
+        "latitude": 51.57083333333334,
+        "longitude": -1.8747222222222222
+    },
+    {
+        "ident": "SIRGO",
+        "latitude": 51.629444444444445,
+        "longitude": 0.6463888888888889
+    },
+    {
+        "ident": "SITET",
+        "latitude": 50.1,
+        "longitude": 0.0
+    },
+    {
+        "ident": "SITNU",
+        "latitude": 51.67975833333333,
+        "longitude": -1.961175
+    },
+    {
+        "ident": "SIVDA",
+        "latitude": 52.35611111111111,
+        "longitude": 0.029722222222222223
+    },
+    {
+        "ident": "SKERY",
+        "latitude": 50.0,
+        "longitude": -3.1730555555555555
+    },
+    {
+        "ident": "SKESO",
+        "latitude": 49.82472222222223,
+        "longitude": -3.0341666666666667
+    },
+    {
+        "ident": "SLYDA",
+        "latitude": 54.20111111111111,
+        "longitude": -5.0874999999999995
+    },
+    {
+        "ident": "SMOKI",
+        "latitude": 57.776944444444446,
+        "longitude": -2.5988888888888892
+    },
+    {
+        "ident": "SOMVA",
+        "latitude": 52.30722222222222,
+        "longitude": 2.6438888888888887
+    },
+    {
+        "ident": "SONDO",
+        "latitude": 52.085,
+        "longitude": 1.8116666666666668
+    },
+    {
+        "ident": "SONEX",
+        "latitude": 53.49805555555556,
+        "longitude": -2.1725
+    },
+    {
+        "ident": "SONOG",
+        "latitude": 52.105555555555554,
+        "longitude": 2.2694444444444444
+    },
+    {
+        "ident": "SONOL",
+        "latitude": 53.00138888888889,
+        "longitude": 2.5
+    },
+    {
+        "ident": "SOPAX",
+        "latitude": 53.64694444444444,
+        "longitude": -4.452222222222223
+    },
+    {
+        "ident": "SOPEK",
+        "latitude": 53.10888888888889,
+        "longitude": 2.5
+    },
+    {
+        "ident": "SOTUN",
+        "latitude": 54.17666666666666,
+        "longitude": 3.6269444444444443
+    },
+    {
+        "ident": "SOXON",
+        "latitude": 58.968333333333334,
+        "longitude": -3.872777777777778
+    },
+    {
+        "ident": "SPINN",
+        "latitude": 52.407202777777776,
+        "longitude": 0.16982777777777777
+    },
+    {
+        "ident": "STAFA",
+        "latitude": 52.86138888888889,
+        "longitude": -2.243055555555556
+    },
+    {
+        "ident": "STIRA",
+        "latitude": 56.13388888888889,
+        "longitude": -3.8336111111111113
+    },
+    {
+        "ident": "STOAT",
+        "latitude": 52.02583333333333,
+        "longitude": -0.020833333333333332
+    },
+    {
+        "ident": "SUBUK",
+        "latitude": 54.38,
+        "longitude": -3.286388888888889
+    },
+    {
+        "ident": "SUPAP",
+        "latitude": 49.43388888888889,
+        "longitude": -5.822777777777778
+    },
+    {
+        "ident": "SUPEL",
+        "latitude": 53.22777777777778,
+        "longitude": 0.5911111111111111
+    },
+    {
+        "ident": "SUPIT",
+        "latitude": 57.3325,
+        "longitude": -7.085
+    },
+    {
+        "ident": "SURAT",
+        "latitude": 55.91555555555556,
+        "longitude": 3.5
+    },
+    {
+        "ident": "SUSIS",
+        "latitude": 55.60472222222222,
+        "longitude": -0.3505555555555555
+    },
+    {
+        "ident": "SUSIX",
+        "latitude": 50.61666666666667,
+        "longitude": -0.9675
+    },
+    {
+        "ident": "SWANY",
+        "latitude": 51.559444444444445,
+        "longitude": -4.13
+    },
+    {
+        "ident": "TABBI",
+        "latitude": 52.35020277777778,
+        "longitude": 0.5673138888888889
+    },
+    {
+        "ident": "TABEN",
+        "latitude": 51.36361111111111,
+        "longitude": -1.172777777777778
+    },
+    {
+        "ident": "TABIT",
+        "latitude": 55.79944444444444,
+        "longitude": -5.333333333333333
+    },
+    {
+        "ident": "TADAL",
+        "latitude": 53.58722222222222,
+        "longitude": -3.026388888888889
+    },
+    {
+        "ident": "TADEX",
+        "latitude": 54.85666666666667,
+        "longitude": -8.23361111111111
+    },
+    {
+        "ident": "TAKAS",
+        "latitude": 49.0,
+        "longitude": -8.0
+    },
+    {
+        "ident": "TALGA",
+        "latitude": 51.958333333333336,
+        "longitude": -3.2455555555555557
+    },
+    {
+        "ident": "TALIG",
+        "latitude": 49.51638888888889,
+        "longitude": -5.801111111111111
+    },
+    {
+        "ident": "TANET",
+        "latitude": 51.44944444444444,
+        "longitude": 0.9255555555555555
+    },
+    {
+        "ident": "TARTN",
+        "latitude": 55.717222222222226,
+        "longitude": -3.138611111111111
+    },
+    {
+        "ident": "TEBLO",
+        "latitude": 50.95416666666667,
+        "longitude": 1.2225000000000001
+    },
+    {
+        "ident": "TEBRA",
+        "latitude": 51.48888888888889,
+        "longitude": 1.6119444444444446
+    },
+    {
+        "ident": "TEDSA",
+        "latitude": 52.05083333333333,
+        "longitude": 1.1275
+    },
+    {
+        "ident": "TELBA",
+        "latitude": 52.66444444444444,
+        "longitude": -2.3186111111111107
+    },
+    {
+        "ident": "TENDO",
+        "latitude": 54.028888888888886,
+        "longitude": 0.24638888888888888
+    },
+    {
+        "ident": "TENSO",
+        "latitude": 53.60055555555556,
+        "longitude": -2.2075
+    },
+    {
+        "ident": "TERKO",
+        "latitude": 51.62555555555556,
+        "longitude": 0.7466666666666666
+    },
+    {
+        "ident": "TESDO",
+        "latitude": 50.12388888888889,
+        "longitude": -7.116666666666666
+    },
+    {
+        "ident": "TETRU",
+        "latitude": 51.67411388888889,
+        "longitude": -2.1990499999999997
+    },
+    {
+        "ident": "THRED",
+        "latitude": 50.49861111111111,
+        "longitude": -1.6638888888888888
+    },
+    {
+        "ident": "TIGER",
+        "latitude": 51.06722222222223,
+        "longitude": 0.43944444444444447
+    },
+    {
+        "ident": "TILNI",
+        "latitude": 54.5475,
+        "longitude": -1.855
+    },
+    {
+        "ident": "TIMPO",
+        "latitude": 52.55888888888889,
+        "longitude": -1.1638888888888888
+    },
+    {
+        "ident": "TINAN",
+        "latitude": 50.666666666666664,
+        "longitude": -3.4483333333333337
+    },
+    {
+        "ident": "TINDI",
+        "latitude": 54.03722222222222,
+        "longitude": 3.2580555555555555
+    },
+    {
+        "ident": "TIPAN",
+        "latitude": 54.598333333333336,
+        "longitude": 4.398888888888889
+    },
+    {
+        "ident": "TIPIL",
+        "latitude": 53.166666666666664,
+        "longitude": -1.7397222222222224
+    },
+    {
+        "ident": "TIPTA",
+        "latitude": 54.80361111111111,
+        "longitude": -1.611388888888889
+    },
+    {
+        "ident": "TIVER",
+        "latitude": 50.80916666666666,
+        "longitude": -3.4238888888888885
+    },
+    {
+        "ident": "TOBIX",
+        "latitude": 51.60472222222222,
+        "longitude": 1.2808333333333333
+    },
+    {
+        "ident": "TOLSA",
+        "latitude": 53.12694444444445,
+        "longitude": 3.1080555555555556
+    },
+    {
+        "ident": "TOPRO",
+        "latitude": 51.91166666666666,
+        "longitude": -3.2491666666666665
+    },
+    {
+        "ident": "TOTRI",
+        "latitude": 51.775,
+        "longitude": 0.19666666666666666
+    },
+    {
+        "ident": "TRIPO",
+        "latitude": 51.713055555555556,
+        "longitude": 1.0827777777777778
+    },
+    {
+        "ident": "TROUT",
+        "latitude": 57.51,
+        "longitude": -1.4149999999999998
+    },
+    {
+        "ident": "TUMTI",
+        "latitude": 53.07777777777778,
+        "longitude": -1.6041666666666667
+    },
+    {
+        "ident": "TUNEL",
+        "latitude": 51.44305555555555,
+        "longitude": 0.23111111111111113
+    },
+    {
+        "ident": "TUNSO",
+        "latitude": 55.111111111111114,
+        "longitude": -4.961388888888889
+    },
+    {
+        "ident": "TUPEM",
+        "latitude": 53.838055555555556,
+        "longitude": -3.4819444444444447
+    },
+    {
+        "ident": "ULLAP",
+        "latitude": 57.9,
+        "longitude": -5.169166666666667
+    },
+    {
+        "ident": "UMBAG",
+        "latitude": 52.34777777777778,
+        "longitude": 0.7825000000000001
+    },
+    {
+        "ident": "UMBEL",
+        "latitude": 54.028888888888886,
+        "longitude": -0.4852777777777778
+    },
+    {
+        "ident": "UNBIG",
+        "latitude": 51.740833333333335,
+        "longitude": -3.583888888888889
+    },
+    {
+        "ident": "UPTON",
+        "latitude": 53.58694444444445,
+        "longitude": -1.3008333333333333
+    },
+    {
+        "ident": "UVAVU",
+        "latitude": 54.416666666666664,
+        "longitude": -1.896111111111111
+    },
+    {
+        "ident": "VABIK",
+        "latitude": 51.24638888888889,
+        "longitude": 2.0
+    },
+    {
+        "ident": "VADNO",
+        "latitude": 57.45305555555556,
+        "longitude": -3.627222222222222
+    },
+    {
+        "ident": "VANIN",
+        "latitude": 53.98527777777778,
+        "longitude": -4.039166666666667
+    },
+    {
+        "ident": "VAPID",
+        "latitude": 51.25388888888889,
+        "longitude": -1.0450000000000002
+    },
+    {
+        "ident": "VATON",
+        "latitude": 51.43444444444444,
+        "longitude": -0.34888888888888886
+    },
+    {
+        "ident": "VEGUS",
+        "latitude": 53.400277777777774,
+        "longitude": -0.3530555555555555
+    },
+    {
+        "ident": "VENAS",
+        "latitude": 54.30555555555555,
+        "longitude": 3.652222222222222
+    },
+    {
+        "ident": "VEXEN",
+        "latitude": 50.13944444444444,
+        "longitude": -1.826111111111111
+    },
+    {
+        "ident": "VIDOK",
+        "latitude": 52.41083333333333,
+        "longitude": -2.0419444444444443
+    },
+    {
+        "ident": "WAFFU",
+        "latitude": 50.5825,
+        "longitude": 0.3497222222222222
+    },
+    {
+        "ident": "WATFO",
+        "latitude": 51.67583333333333,
+        "longitude": -0.34833333333333333
+    },
+    {
+        "ident": "WEALD",
+        "latitude": 51.33083333333334,
+        "longitude": 0.034722222222222224
+    },
+    {
+        "ident": "WELIN",
+        "latitude": 52.24722222222222,
+        "longitude": -0.8522222222222222
+    },
+    {
+        "ident": "WESUL",
+        "latitude": 51.670833333333334,
+        "longitude": 0.48583333333333334
+    },
+    {
+        "ident": "WIZAD",
+        "latitude": 51.11666666666667,
+        "longitude": 0.9530555555555555
+    },
+    {
+        "ident": "WOBUN",
+        "latitude": 52.019444444444446,
+        "longitude": -0.7333333333333334
+    },
+    {
+        "ident": "WOTAN",
+        "latitude": 51.62388888888889,
+        "longitude": -2.335
+    },
+    {
+        "ident": "XAMAB",
+        "latitude": 50.20444444444445,
+        "longitude": 0.26472222222222225
+    },
+    {
+        "ident": "XAMAN",
+        "latitude": 51.78472222222222,
+        "longitude": 2.2241666666666666
+    },
+    {
+        "ident": "XEDUR",
+        "latitude": 52.394219444444445,
+        "longitude": 0.7100194444444444
+    },
+    {
+        "ident": "XERSA",
+        "latitude": 52.42158611111111,
+        "longitude": 0.5902138888888889
+    },
+    {
+        "ident": "XIDIL",
+        "latitude": 50.35166666666667,
+        "longitude": 0.6413888888888889
+    },
+    {
+        "ident": "XIGAR",
+        "latitude": 51.81388888888888,
+        "longitude": 0.2627777777777778
+    },
+    {
+        "ident": "ABDAL",
+        "latitude": 51.44611111111111,
+        "longitude": -1.8633333333333335
+    },
+    {
+        "ident": "ACORN",
+        "latitude": 51.25527777777778,
+        "longitude": 0.1961111111111111
+    },
+    {
+        "ident": "AGANO",
+        "latitude": 49.665,
+        "longitude": -2.0
+    },
+    {
+        "ident": "AGORI",
+        "latitude": 57.0,
+        "longitude": -13.0
+    },
+    {
+        "ident": "ALESO",
+        "latitude": 50.57555555555556,
+        "longitude": 1.2255555555555557
+    },
+    {
+        "ident": "ALLOY",
+        "latitude": 61.35611111111111,
+        "longitude": 1.788333333333333
+    },
+    {
+        "ident": "ALOTI",
+        "latitude": 57.9075,
+        "longitude": 3.6083333333333334
+    },
+    {
+        "ident": "AMLET",
+        "latitude": 53.26861111111111,
+        "longitude": -1.8383333333333334
+    },
+    {
+        "ident": "ANGLA",
+        "latitude": 49.70388888888889,
+        "longitude": -2.0208333333333335
+    },
+    {
+        "ident": "ANGLO",
+        "latitude": 49.92833333333333,
+        "longitude": -0.455
+    },
+    {
+        "ident": "ARKIL",
+        "latitude": 50.657777777777774,
+        "longitude": -8.0
+    },
+    {
+        "ident": "ARTHA",
+        "latitude": 53.783055555555556,
+        "longitude": -2.2852777777777775
+    },
+    {
+        "ident": "ASKEY",
+        "latitude": 52.013888888888886,
+        "longitude": -0.05277777777777778
+    },
+    {
+        "ident": "ASTRA",
+        "latitude": 50.86555555555556,
+        "longitude": -0.1463888888888889
+    },
+    {
+        "ident": "ATSUR",
+        "latitude": 50.0,
+        "longitude": -14.0
+    },
+    {
+        "ident": "ATWEL",
+        "latitude": 50.847500000000004,
+        "longitude": -3.4169444444444443
+    },
+    {
+        "ident": "AVRAL",
+        "latitude": 55.50944444444445,
+        "longitude": 3.716388888888889
+    },
+    {
+        "ident": "BAGPO",
+        "latitude": 55.007777777777775,
+        "longitude": -3.1938888888888886
+    },
+    {
+        "ident": "BAKUR",
+        "latitude": 52.24166666666667,
+        "longitude": -5.680277777777778
+    },
+    {
+        "ident": "BALIS",
+        "latitude": 57.23416666666667,
+        "longitude": -2.065
+    },
+    {
+        "ident": "BAMBO",
+        "latitude": 51.87694444444445,
+        "longitude": -1.6166666666666667
+    },
+    {
+        "ident": "BANBA",
+        "latitude": 51.95277777777778,
+        "longitude": -6.239166666666667
+    },
+    {
+        "ident": "BAPAG",
+        "latitude": 51.71805555555556,
+        "longitude": -0.12333333333333334
+    },
+    {
+        "ident": "BAROS",
+        "latitude": 53.40611111111111,
+        "longitude": -3.445277777777778
+    },
+    {
+        "ident": "BEDRA",
+        "latitude": 49.0,
+        "longitude": -15.0
+    },
+    {
+        "ident": "BEGAS",
+        "latitude": 45.0,
+        "longitude": -9.0
+    },
+    {
+        "ident": "BEGID",
+        "latitude": 56.5,
+        "longitude": -14.0
+    },
+    {
+        "ident": "BEMID",
+        "latitude": 51.573888888888895,
+        "longitude": 0.34888888888888886
+    },
+    {
+        "ident": "BENIX",
+        "latitude": 49.54666666666667,
+        "longitude": -1.49
+    },
+    {
+        "ident": "BENTY",
+        "latitude": 59.770833333333336,
+        "longitude": -1.136111111111111
+    },
+    {
+        "ident": "BEREP",
+        "latitude": 59.03583333333333,
+        "longitude": 1.738888888888889
+    },
+    {
+        "ident": "BEVAV",
+        "latitude": 49.066944444444445,
+        "longitude": -1.6905555555555556
+    },
+    {
+        "ident": "BEXIL",
+        "latitude": 50.70888888888889,
+        "longitude": 0.7369444444444444
+    },
+    {
+        "ident": "BIGLI",
+        "latitude": 52.13,
+        "longitude": -0.24166666666666667
+    },
+    {
+        "ident": "BILTO",
+        "latitude": 56.5,
+        "longitude": -15.0
+    },
+    {
+        "ident": "BIMGO",
+        "latitude": 49.5,
+        "longitude": -14.0
+    },
+    {
+        "ident": "BODAM",
+        "latitude": 59.91833333333333,
+        "longitude": -1.2683333333333333
+    },
+    {
+        "ident": "BOLRO",
+        "latitude": 50.0,
+        "longitude": -1.6913888888888888
+    },
+    {
+        "ident": "BONDY",
+        "latitude": 51.13138888888889,
+        "longitude": 0.7575
+    },
+    {
+        "ident": "BOVVA",
+        "latitude": 51.726111111111116,
+        "longitude": -0.5497222222222222
+    },
+    {
+        "ident": "BRILL",
+        "latitude": 49.7025,
+        "longitude": -2.3897222222222223
+    },
+    {
+        "ident": "BURNI",
+        "latitude": 53.727222222222224,
+        "longitude": -2.517777777777778
+    },
+    {
+        "ident": "CASEL",
+        "latitude": 53.83111111111111,
+        "longitude": -4.1825
+    },
+    {
+        "ident": "CEDAR",
+        "latitude": 52.51861111111111,
+        "longitude": -1.82
+    },
+    {
+        "ident": "CHANL",
+        "latitude": 50.45416666666667,
+        "longitude": 0.1897222222222222
+    },
+    {
+        "ident": "CHUBB",
+        "latitude": 49.431666666666665,
+        "longitude": -2.808333333333333
+    },
+    {
+        "ident": "COLRE",
+        "latitude": 55.11638888888889,
+        "longitude": -6.733888888888889
+    },
+    {
+        "ident": "CREWE",
+        "latitude": 52.81861111111112,
+        "longitude": -2.3074999999999997
+    },
+    {
+        "ident": "DALEY",
+        "latitude": 53.66888888888889,
+        "longitude": -2.3491666666666666
+    },
+    {
+        "ident": "DAYNE",
+        "latitude": 53.23861111111111,
+        "longitude": -2.029166666666667
+    },
+    {
+        "ident": "DEGOS",
+        "latitude": 54.189166666666665,
+        "longitude": -6.906388888888889
+    },
+    {
+        "ident": "DELBO",
+        "latitude": 51.87694444444445,
+        "longitude": -1.2733333333333332
+    },
+    {
+        "ident": "DETOP",
+        "latitude": 55.24472222222222,
+        "longitude": 5.0
+    },
+    {
+        "ident": "DIKRO",
+        "latitude": 49.584722222222226,
+        "longitude": -1.1108333333333333
+    },
+    {
+        "ident": "DINIM",
+        "latitude": 51.0,
+        "longitude": -15.0
+    },
+    {
+        "ident": "DIPSO",
+        "latitude": 53.05361111111111,
+        "longitude": -1.3441666666666665
+    },
+    {
+        "ident": "DOGAL",
+        "latitude": 54.0,
+        "longitude": -15.0
+    },
+    {
+        "ident": "DONNA",
+        "latitude": 51.7,
+        "longitude": -0.7436111111111111
+    },
+    {
+        "ident": "DORKI",
+        "latitude": 51.27583333333333,
+        "longitude": -0.2644444444444444
+    },
+    {
+        "ident": "DUFFY",
+        "latitude": 54.514722222222225,
+        "longitude": -5.860833333333333
+    },
+    {
+        "ident": "DUNGV",
+        "latitude": 54.89555555555555,
+        "longitude": -6.79
+    },
+    {
+        "ident": "DUNLO",
+        "latitude": 53.330000000000005,
+        "longitude": -5.5
+    },
+    {
+        "ident": "EBONY",
+        "latitude": 52.34166666666667,
+        "longitude": -2.058333333333333
+    },
+    {
+        "ident": "ELBAN",
+        "latitude": 55.95472222222222,
+        "longitude": -4.504444444444444
+    },
+    {
+        "ident": "ELBOB",
+        "latitude": 54.73277777777778,
+        "longitude": -7.743888888888889
+    },
+    {
+        "ident": "ELSOX",
+        "latitude": 51.0,
+        "longitude": -14.0
+    },
+    {
+        "ident": "EMPER",
+        "latitude": 49.0,
+        "longitude": -9.0
+    },
+    {
+        "ident": "ENOKA",
+        "latitude": 55.336111111111116,
+        "longitude": -3.662777777777778
+    },
+    {
+        "ident": "EPUNA",
+        "latitude": 50.5,
+        "longitude": -14.0
+    },
+    {
+        "ident": "ESTRY",
+        "latitude": 53.66444444444444,
+        "longitude": -3.2616666666666667
+    },
+    {
+        "ident": "ETARI",
+        "latitude": 55.5,
+        "longitude": -15.0
+    },
+    {
+        "ident": "ETIKI",
+        "latitude": 48.0,
+        "longitude": -8.75
+    },
+    {
+        "ident": "EVNAS",
+        "latitude": 51.66777777777777,
+        "longitude": 0.4438888888888889
+    },
+    {
+        "ident": "EVRIN",
+        "latitude": 51.782222222222224,
+        "longitude": -6.5633333333333335
+    },
+    {
+        "ident": "EVSEM",
+        "latitude": 51.730555555555554,
+        "longitude": -1.4625
+    },
+    {
+        "ident": "FAMBO",
+        "latitude": 54.5,
+        "longitude": -0.46444444444444444
+    },
+    {
+        "ident": "FERAS",
+        "latitude": 51.63583333333333,
+        "longitude": 0.6402777777777777
+    },
+    {
+        "ident": "FIMLI",
+        "latitude": 51.301111111111105,
+        "longitude": -0.6683333333333333
+    },
+    {
+        "ident": "GINTI",
+        "latitude": 51.578611111111115,
+        "longitude": 0.37
+    },
+    {
+        "ident": "GIPER",
+        "latitude": 51.0,
+        "longitude": -12.0
+    },
+    {
+        "ident": "GIRNU",
+        "latitude": 60.47361111111111,
+        "longitude": -0.6194444444444445
+    },
+    {
+        "ident": "GODOS",
+        "latitude": 53.24916666666667,
+        "longitude": 3.429722222222222
+    },
+    {
+        "ident": "GOREV",
+        "latitude": 56.05333333333333,
+        "longitude": 5.0
+    },
+    {
+        "ident": "GORSE",
+        "latitude": 57.176944444444445,
+        "longitude": -1.8975
+    },
+    {
+        "ident": "GROVE",
+        "latitude": 52.39388888888889,
+        "longitude": -1.9288888888888887
+    },
+    {
+        "ident": "GULDA",
+        "latitude": 49.38527777777778,
+        "longitude": -1.9174999999999998
+    },
+    {
+        "ident": "GUNPA",
+        "latitude": 61.0,
+        "longitude": 0.0
+    },
+    {
+        "ident": "GUNSO",
+        "latitude": 49.05277777777778,
+        "longitude": -11.768333333333334
+    },
+    {
+        "ident": "GURLU",
+        "latitude": 50.47777777777778,
+        "longitude": 0.9686111111111111
+    },
+    {
+        "ident": "HILLY",
+        "latitude": 51.335,
+        "longitude": 0.2436111111111111
+    },
+    {
+        "ident": "HOGBA",
+        "latitude": 51.22805555555556,
+        "longitude": -0.49527777777777776
+    },
+    {
+        "ident": "HOLLY",
+        "latitude": 50.88666666666666,
+        "longitude": -0.095
+    },
+    {
+        "ident": "IBROD",
+        "latitude": 56.5,
+        "longitude": -10.0
+    },
+    {
+        "ident": "INBOB",
+        "latitude": 55.606944444444444,
+        "longitude": 5.0
+    },
+    {
+        "ident": "INGUR",
+        "latitude": 51.711666666666666,
+        "longitude": -2.8602777777777777
+    },
+    {
+        "ident": "IZACK",
+        "latitude": 59.89083333333333,
+        "longitude": -1.0202777777777776
+    },
+    {
+        "ident": "KESIX",
+        "latitude": 56.95,
+        "longitude": -14.0
+    },
+    {
+        "ident": "KETIK",
+        "latitude": 49.32333333333334,
+        "longitude": -1.8730555555555557
+    },
+    {
+        "ident": "KINDR",
+        "latitude": 53.39277777777778,
+        "longitude": -1.9361111111111111
+    },
+    {
+        "ident": "KLONN",
+        "latitude": 58.39,
+        "longitude": 2.828888888888889
+    },
+    {
+        "ident": "KOGAD",
+        "latitude": 49.5,
+        "longitude": -15.0
+    },
+    {
+        "ident": "KOKIB",
+        "latitude": 54.5,
+        "longitude": -14.0
+    },
+    {
+        "ident": "KOKOS",
+        "latitude": 48.90694444444444,
+        "longitude": -1.6761111111111109
+    },
+    {
+        "ident": "KOTEM",
+        "latitude": 50.0,
+        "longitude": -1.0538888888888889
+    },
+    {
+        "ident": "KUGUR",
+        "latitude": 55.5,
+        "longitude": -10.0
+    },
+    {
+        "ident": "KUKIS",
+        "latitude": 51.69888888888889,
+        "longitude": -3.0769444444444445
+    },
+    {
+        "ident": "LAGER",
+        "latitude": 53.611111111111114,
+        "longitude": -0.14694444444444443
+    },
+    {
+        "ident": "LAGUL",
+        "latitude": 49.43722222222222,
+        "longitude": -2.6036111111111113
+    },
+    {
+        "ident": "LANLO",
+        "latitude": 49.990833333333335,
+        "longitude": -5.952222222222223
+    },
+    {
+        "ident": "LAPEX",
+        "latitude": 47.0,
+        "longitude": -8.0
+    },
+    {
+        "ident": "LARCK",
+        "latitude": 50.91166666666666,
+        "longitude": 0.44666666666666666
+    },
+    {
+        "ident": "LASNO",
+        "latitude": 48.598333333333336,
+        "longitude": -9.0
+    },
+    {
+        "ident": "LELNA",
+        "latitude": 49.9825,
+        "longitude": -2.106388888888889
+    },
+    {
+        "ident": "LERAK",
+        "latitude": 49.01888888888889,
+        "longitude": -2.408611111111111
+    },
+    {
+        "ident": "LESRA",
+        "latitude": 55.385555555555555,
+        "longitude": 5.0
+    },
+    {
+        "ident": "LIBBA",
+        "latitude": 55.723888888888894,
+        "longitude": -3.745277777777778
+    },
+    {
+        "ident": "LIFFY",
+        "latitude": 53.480000000000004,
+        "longitude": -5.5
+    },
+    {
+        "ident": "LISBO",
+        "latitude": 54.525,
+        "longitude": -6.09
+    },
+    {
+        "ident": "LIZAD",
+        "latitude": 49.59027777777778,
+        "longitude": -4.330277777777778
+    },
+    {
+        "ident": "LONAM",
+        "latitude": 53.839444444444446,
+        "longitude": 3.9425000000000003
+    },
+    {
+        "ident": "LONLO",
+        "latitude": 52.780277777777776,
+        "longitude": -2.0141666666666667
+    },
+    {
+        "ident": "LORKU",
+        "latitude": 49.93833333333333,
+        "longitude": -2.371111111111111
+    },
+    {
+        "ident": "LUMBA",
+        "latitude": 50.94555555555555,
+        "longitude": 0.26166666666666666
+    },
+    {
+        "ident": "LUNEX",
+        "latitude": 54.843333333333334,
+        "longitude": -7.258611111111111
+    },
+    {
+        "ident": "LUSIT",
+        "latitude": 49.21472222222223,
+        "longitude": -1.7955555555555553
+    },
+    {
+        "ident": "MADOX",
+        "latitude": 58.728611111111114,
+        "longitude": -3.7775
+    },
+    {
+        "ident": "MAGEE",
+        "latitude": 54.791666666666664,
+        "longitude": -5.608333333333333
+    },
+    {
+        "ident": "MANTA",
+        "latitude": 49.70333333333333,
+        "longitude": -2.591666666666667
+    },
+    {
+        "ident": "MAPAG",
+        "latitude": 51.0,
+        "longitude": -8.5
+    },
+    {
+        "ident": "MAVET",
+        "latitude": 54.049166666666665,
+        "longitude": -3.517777777777778
+    },
+    {
+        "ident": "MAYLA",
+        "latitude": 51.628055555555555,
+        "longitude": 0.72
+    },
+    {
+        "ident": "MINQI",
+        "latitude": 49.03333333333333,
+        "longitude": -2.0569444444444445
+    },
+    {
+        "ident": "MIRSI",
+        "latitude": 53.53805555555555,
+        "longitude": -2.711666666666667
+    },
+    {
+        "ident": "MOGLO",
+        "latitude": 55.5,
+        "longitude": -14.0
+    },
+    {
+        "ident": "MOLAK",
+        "latitude": 54.61361111111111,
+        "longitude": -9.506388888888889
+    },
+    {
+        "ident": "MOODY",
+        "latitude": 50.345,
+        "longitude": -3.9033333333333333
+    },
+    {
+        "ident": "MORAG",
+        "latitude": 52.75277777777778,
+        "longitude": -5.5
+    },
+    {
+        "ident": "MOSIS",
+        "latitude": 49.007222222222225,
+        "longitude": -7.214722222222222
+    },
+    {
+        "ident": "MOSUN",
+        "latitude": 51.89388888888889,
+        "longitude": -2.4361111111111113
+    },
+    {
+        "ident": "MOTOX",
+        "latitude": 50.95777777777778,
+        "longitude": 1.4666666666666668
+    },
+    {
+        "ident": "MOVEN",
+        "latitude": 52.06194444444444,
+        "longitude": -1.8130555555555556
+    },
+    {
+        "ident": "MULIT",
+        "latitude": 51.01305555555555,
+        "longitude": -3.388611111111111
+    },
+    {
+        "ident": "NAVPI",
+        "latitude": 52.54722222222222,
+        "longitude": 2.8405555555555555
+    },
+    {
+        "ident": "NERTU",
+        "latitude": 49.0,
+        "longitude": -14.0
+    },
+    {
+        "ident": "NESOL",
+        "latitude": 57.921388888888885,
+        "longitude": 3.586388888888889
+    },
+    {
+        "ident": "NESON",
+        "latitude": 54.22944444444445,
+        "longitude": -7.123333333333333
+    },
+    {
+        "ident": "NESTA",
+        "latitude": 60.0,
+        "longitude": -4.166666666666667
+    },
+    {
+        "ident": "NETKI",
+        "latitude": 55.0,
+        "longitude": -14.0
+    },
+    {
+        "ident": "NEVIL",
+        "latitude": 50.0,
+        "longitude": -0.3683333333333333
+    },
+    {
+        "ident": "NIBOG",
+        "latitude": 55.0,
+        "longitude": -10.0
+    },
+    {
+        "ident": "NIPIT",
+        "latitude": 54.4525,
+        "longitude": -8.402777777777779
+    },
+    {
+        "ident": "NIVUN",
+        "latitude": 57.57,
+        "longitude": 4.1369444444444445
+    },
+    {
+        "ident": "NOBAL",
+        "latitude": 57.255,
+        "longitude": -2.0599999999999996
+    },
+    {
+        "ident": "NORBO",
+        "latitude": 55.59583333333334,
+        "longitude": -4.7619444444444445
+    },
+    {
+        "ident": "NORDA",
+        "latitude": 49.78666666666666,
+        "longitude": -1.095
+    },
+    {
+        "ident": "NORLA",
+        "latitude": 51.619166666666665,
+        "longitude": -6.869722222222222
+    },
+    {
+        "ident": "NUGRA",
+        "latitude": 53.029444444444444,
+        "longitude": -2.303888888888889
+    },
+    {
+        "ident": "NUTBA",
+        "latitude": 52.64694444444444,
+        "longitude": -0.9166666666666666
+    },
+    {
+        "ident": "ODIMI",
+        "latitude": 51.23277777777778,
+        "longitude": -0.9486111111111111
+    },
+    {
+        "ident": "ODPIX",
+        "latitude": 53.00138888888889,
+        "longitude": -1.2652777777777777
+    },
+    {
+        "ident": "OLIVE",
+        "latitude": 52.40333333333333,
+        "longitude": -1.9366666666666668
+    },
+    {
+        "ident": "OMOKO",
+        "latitude": 48.83888888888889,
+        "longitude": -12.0
+    },
+    {
+        "ident": "ORIST",
+        "latitude": 50.0,
+        "longitude": -1.8450000000000002
+    },
+    {
+        "ident": "ORMER",
+        "latitude": 49.60111111111111,
+        "longitude": -2.8580555555555556
+    },
+    {
+        "ident": "ORTAC",
+        "latitude": 49.99916666666667,
+        "longitude": -2.005
+    },
+    {
+        "ident": "ORVAL",
+        "latitude": 49.03388888888889,
+        "longitude": -1.8252777777777778
+    },
+    {
+        "ident": "OSBOX",
+        "latitude": 56.80638888888888,
+        "longitude": -12.801666666666668
+    },
+    {
+        "ident": "OYSTA",
+        "latitude": 49.1,
+        "longitude": -2.5233333333333334
+    },
+    {
+        "ident": "PEPOD",
+        "latitude": 54.27111111111111,
+        "longitude": -5.569166666666667
+    },
+    {
+        "ident": "PERCH",
+        "latitude": 49.12916666666667,
+        "longitude": -1.9372222222222222
+    },
+    {
+        "ident": "PETIL",
+        "latitude": 55.93888888888888,
+        "longitude": 5.0
+    },
+    {
+        "ident": "PETOX",
+        "latitude": 57.55916666666666,
+        "longitude": -1.8172222222222223
+    },
+    {
+        "ident": "PIGOT",
+        "latitude": 52.49527777777778,
+        "longitude": -1.0686111111111112
+    },
+    {
+        "ident": "PIKEY",
+        "latitude": 49.47694444444445,
+        "longitude": -2.2255555555555557
+    },
+    {
+        "ident": "PIKIL",
+        "latitude": 56.0,
+        "longitude": -15.0
+    },
+    {
+        "ident": "PIKOD",
+        "latitude": 49.410555555555554,
+        "longitude": -5.266388888888889
+    },
+    {
+        "ident": "PLYMO",
+        "latitude": 50.34583333333334,
+        "longitude": -4.626944444444445
+    },
+    {
+        "ident": "POMAX",
+        "latitude": 51.52722222222222,
+        "longitude": -2.0811111111111114
+    },
+    {
+        "ident": "REGHI",
+        "latitude": 48.0,
+        "longitude": -8.0
+    },
+    {
+        "ident": "RESNO",
+        "latitude": 55.0,
+        "longitude": -15.0
+    },
+    {
+        "ident": "RIDLY",
+        "latitude": 51.647777777777776,
+        "longitude": 0.9
+    },
+    {
+        "ident": "RISIN",
+        "latitude": 51.69416666666666,
+        "longitude": -1.4411111111111112
+    },
+    {
+        "ident": "RIVAK",
+        "latitude": 46.0,
+        "longitude": -8.0
+    },
+    {
+        "ident": "RODEL",
+        "latitude": 50.5,
+        "longitude": -15.0
+    },
+    {
+        "ident": "ROKOS",
+        "latitude": 50.853611111111114,
+        "longitude": 1.1875
+    },
+    {
+        "ident": "ROKUP",
+        "latitude": 53.01722222222222,
+        "longitude": -1.5158333333333334
+    },
+    {
+        "ident": "ROMTI",
+        "latitude": 51.035,
+        "longitude": 0.9222222222222222
+    },
+    {
+        "ident": "ROSUN",
+        "latitude": 53.66888888888889,
+        "longitude": -2.3491666666666666
+    },
+    {
+        "ident": "RUGER",
+        "latitude": 53.48277777777778,
+        "longitude": -3.447777777777778
+    },
+    {
+        "ident": "SALCO",
+        "latitude": 49.73722222222222,
+        "longitude": -3.5294444444444446
+    },
+    {
+        "ident": "SAMON",
+        "latitude": 51.322500000000005,
+        "longitude": -7.417777777777778
+    },
+    {
+        "ident": "SANBA",
+        "latitude": 53.13944444444444,
+        "longitude": -2.334166666666667
+    },
+    {
+        "ident": "SENLO",
+        "latitude": 49.083333333333336,
+        "longitude": -1.1783333333333335
+    },
+    {
+        "ident": "SEPAL",
+        "latitude": 47.0,
+        "longitude": -8.75
+    },
+    {
+        "ident": "SHARK",
+        "latitude": 49.189722222222215,
+        "longitude": -2.4294444444444445
+    },
+    {
+        "ident": "SHRUB",
+        "latitude": 57.30027777777777,
+        "longitude": -1.8152777777777778
+    },
+    {
+        "ident": "SILOK",
+        "latitude": 59.769999999999996,
+        "longitude": -1.4833333333333334
+    },
+    {
+        "ident": "SIVIR",
+        "latitude": 46.0,
+        "longitude": -8.75
+    },
+    {
+        "ident": "SKINA",
+        "latitude": 52.80472222222222,
+        "longitude": -1.7730555555555556
+    },
+    {
+        "ident": "SLANY",
+        "latitude": 52.15861111111111,
+        "longitude": -5.8422222222222215
+    },
+    {
+        "ident": "SOBDO",
+        "latitude": 50.073888888888895,
+        "longitude": -7.116666666666666
+    },
+    {
+        "ident": "SODKI",
+        "latitude": 58.7975,
+        "longitude": -3.631388888888889
+    },
+    {
+        "ident": "ABAKU",
+        "latitude": 51.676944444444445,
+        "longitude": 19.08138888888889
+    },
+    {
+        "ident": "ABERO",
+        "latitude": 52.22833333333333,
+        "longitude": 23.208333333333332
+    },
+    {
+        "ident": "ABEXA",
+        "latitude": 51.60472222222222,
+        "longitude": 20.921666666666667
+    },
+    {
+        "ident": "ADIKA",
+        "latitude": 51.538333333333334,
+        "longitude": 21.329444444444444
+    },
+    {
+        "ident": "ADOKI",
+        "latitude": 49.93583333333333,
+        "longitude": 20.645833333333332
+    },
+    {
+        "ident": "AGALU",
+        "latitude": 51.47138888888889,
+        "longitude": 17.385555555555555
+    },
+    {
+        "ident": "AGAVA",
+        "latitude": 51.581388888888895,
+        "longitude": 19.960833333333333
+    },
+    {
+        "ident": "ALUKA",
+        "latitude": 52.89849722222222,
+        "longitude": 14.305575000000001
+    },
+    {
+        "ident": "AMPAK",
+        "latitude": 55.202222222222225,
+        "longitude": 17.121111111111112
+    },
+    {
+        "ident": "AMROR",
+        "latitude": 54.89,
+        "longitude": 15.097222222222223
+    },
+    {
+        "ident": "AMUTO",
+        "latitude": 52.333333333333336,
+        "longitude": 18.945833333333333
+    },
+    {
+        "ident": "ANEPI",
+        "latitude": 52.01602222222222,
+        "longitude": 20.565775000000002
+    },
+    {
+        "ident": "APTAS",
+        "latitude": 50.91138888888889,
+        "longitude": 17.695833333333333
+    },
+    {
+        "ident": "ARMEX",
+        "latitude": 51.495555555555555,
+        "longitude": 17.12388888888889
+    },
+    {
+        "ident": "ARSOG",
+        "latitude": 49.99055555555556,
+        "longitude": 22.699722222222224
+    },
+    {
+        "ident": "ASLUX",
+        "latitude": 52.32055555555556,
+        "longitude": 22.160555555555554
+    },
+    {
+        "ident": "ATGAN",
+        "latitude": 52.08111111111111,
+        "longitude": 21.22222222222222
+    },
+    {
+        "ident": "BABEN",
+        "latitude": 54.38805555555555,
+        "longitude": 15.241944444444444
+    },
+    {
+        "ident": "BADNO",
+        "latitude": 51.75,
+        "longitude": 17.678333333333335
+    },
+    {
+        "ident": "BADUP",
+        "latitude": 52.05916666666666,
+        "longitude": 17.421111111111113
+    },
+    {
+        "ident": "BAGAP",
+        "latitude": 51.6,
+        "longitude": 19.761666666666667
+    },
+    {
+        "ident": "BALBA",
+        "latitude": 50.861666666666665,
+        "longitude": 23.023333333333333
+    },
+    {
+        "ident": "BALOS",
+        "latitude": 50.275555555555556,
+        "longitude": 19.65833333333333
+    },
+    {
+        "ident": "BAMSO",
+        "latitude": 52.33583333333333,
+        "longitude": 21.909444444444443
+    },
+    {
+        "ident": "BANET",
+        "latitude": 50.36638888888889,
+        "longitude": 18.929166666666667
+    },
+    {
+        "ident": "BANUN",
+        "latitude": 51.17805555555555,
+        "longitude": 16.42666666666667
+    },
+    {
+        "ident": "BAPAS",
+        "latitude": 52.17861111111111,
+        "longitude": 15.519722222222223
+    },
+    {
+        "ident": "BAREP",
+        "latitude": 52.27111111111111,
+        "longitude": 15.564444444444446
+    },
+    {
+        "ident": "BAREX",
+        "latitude": 50.894444444444446,
+        "longitude": 18.738333333333333
+    },
+    {
+        "ident": "BAVOK",
+        "latitude": 50.00277777777778,
+        "longitude": 18.19527777777778
+    },
+    {
+        "ident": "BAXIS",
+        "latitude": 51.808611111111105,
+        "longitude": 18.86388888888889
+    },
+    {
+        "ident": "BEBAL",
+        "latitude": 53.265277777777776,
+        "longitude": 18.333055555555557
+    },
+    {
+        "ident": "BEDAM",
+        "latitude": 53.73972222222222,
+        "longitude": 15.192222222222222
+    },
+    {
+        "ident": "BEDUN",
+        "latitude": 50.51777777777777,
+        "longitude": 18.568055555555556
+    },
+    {
+        "ident": "BESOT",
+        "latitude": 52.92166666666667,
+        "longitude": 22.944444444444446
+    },
+    {
+        "ident": "BESTO",
+        "latitude": 51.730000000000004,
+        "longitude": 17.398888888888887
+    },
+    {
+        "ident": "BIBKA",
+        "latitude": 53.19083333333333,
+        "longitude": 18.955
+    },
+    {
+        "ident": "BIMPA",
+        "latitude": 52.37444444444444,
+        "longitude": 19.77472222222222
+    },
+    {
+        "ident": "BINKA",
+        "latitude": 53.75880277777778,
+        "longitude": 14.274441666666668
+    },
+    {
+        "ident": "BUDIR",
+        "latitude": 51.38305555555556,
+        "longitude": 16.945555555555554
+    },
+    {
+        "ident": "BULEP",
+        "latitude": 52.77111111111111,
+        "longitude": 22.41888888888889
+    },
+    {
+        "ident": "BUNIX",
+        "latitude": 51.88194444444444,
+        "longitude": 17.353055555555557
+    },
+    {
+        "ident": "BURAN",
+        "latitude": 54.180277777777775,
+        "longitude": 17.029722222222222
+    },
+    {
+        "ident": "DEKUT",
+        "latitude": 53.11611111111111,
+        "longitude": 17.03527777777778
+    },
+    {
+        "ident": "DELIR",
+        "latitude": 53.080555555555556,
+        "longitude": 17.113611111111112
+    },
+    {
+        "ident": "DEMIN",
+        "latitude": 50.001666666666665,
+        "longitude": 21.511111111111113
+    },
+    {
+        "ident": "DEMUR",
+        "latitude": 54.080000000000005,
+        "longitude": 15.007777777777777
+    },
+    {
+        "ident": "DERAM",
+        "latitude": 51.846944444444446,
+        "longitude": 19.280833333333334
+    },
+    {
+        "ident": "DEVEL",
+        "latitude": 54.73083333333334,
+        "longitude": 15.748055555555554
+    },
+    {
+        "ident": "DEXIR",
+        "latitude": 54.22416666666667,
+        "longitude": 17.448888888888888
+    },
+    {
+        "ident": "DIMEX",
+        "latitude": 51.63055555555555,
+        "longitude": 16.128611111111113
+    },
+    {
+        "ident": "DINOV",
+        "latitude": 50.92861111111111,
+        "longitude": 16.085555555555555
+    },
+    {
+        "ident": "DIPKI",
+        "latitude": 52.20277777777778,
+        "longitude": 17.462777777777777
+    },
+    {
+        "ident": "DODAN",
+        "latitude": 53.35277777777778,
+        "longitude": 15.427222222222222
+    },
+    {
+        "ident": "DODER",
+        "latitude": 51.203611111111115,
+        "longitude": 16.55888888888889
+    },
+    {
+        "ident": "DOMAG",
+        "latitude": 54.974444444444444,
+        "longitude": 17.685555555555556
+    },
+    {
+        "ident": "DOSAL",
+        "latitude": 53.39861111111111,
+        "longitude": 15.392222222222221
+    },
+    {
+        "ident": "EBIMA",
+        "latitude": 53.29416666666666,
+        "longitude": 22.929166666666667
+    },
+    {
+        "ident": "EBOGU",
+        "latitude": 53.37888888888889,
+        "longitude": 18.149722222222223
+    },
+    {
+        "ident": "EDULO",
+        "latitude": 52.402499999999996,
+        "longitude": 20.687166666666666
+    },
+    {
+        "ident": "EGLON",
+        "latitude": 51.416666666666664,
+        "longitude": 21.984722222222224
+    },
+    {
+        "ident": "EKSEK",
+        "latitude": 51.12833333333333,
+        "longitude": 15.610833333333334
+    },
+    {
+        "ident": "ELKAR",
+        "latitude": 53.69833333333333,
+        "longitude": 20.5
+    },
+    {
+        "ident": "ELPOL",
+        "latitude": 54.60638888888889,
+        "longitude": 15.633888888888889
+    },
+    {
+        "ident": "ERGON",
+        "latitude": 52.90611111111111,
+        "longitude": 14.156666666666666
+    },
+    {
+        "ident": "ERNAP",
+        "latitude": 50.441111111111105,
+        "longitude": 20.147777777777776
+    },
+    {
+        "ident": "ETUBO",
+        "latitude": 52.469166666666666,
+        "longitude": 22.9625
+    },
+    {
+        "ident": "EVINA",
+        "latitude": 51.38777777777778,
+        "longitude": 20.360000000000003
+    },
+    {
+        "ident": "GAGRO",
+        "latitude": 51.33083333333334,
+        "longitude": 17.22472222222222
+    },
+    {
+        "ident": "GALBU",
+        "latitude": 50.6425,
+        "longitude": 18.081944444444446
+    },
+    {
+        "ident": "GAMRO",
+        "latitude": 49.93694444444444,
+        "longitude": 20.773333333333333
+    },
+    {
+        "ident": "GERVI",
+        "latitude": 52.155277777777776,
+        "longitude": 22.200833333333332
+    },
+    {
+        "ident": "GIGAL",
+        "latitude": 51.078611111111115,
+        "longitude": 16.491944444444446
+    },
+    {
+        "ident": "GILAS",
+        "latitude": 52.63166666666667,
+        "longitude": 14.525833333333335
+    },
+    {
+        "ident": "GINOK",
+        "latitude": 52.52638888888889,
+        "longitude": 16.478888888888886
+    },
+    {
+        "ident": "GIPOS",
+        "latitude": 51.69833333333333,
+        "longitude": 19.71
+    },
+    {
+        "ident": "GIRLU",
+        "latitude": 50.55833333333333,
+        "longitude": 19.677500000000002
+    },
+    {
+        "ident": "GIXOL",
+        "latitude": 49.82916666666667,
+        "longitude": 19.351944444444445
+    },
+    {
+        "ident": "GODLO",
+        "latitude": 51.00388888888889,
+        "longitude": 16.504166666666666
+    },
+    {
+        "ident": "GOMEX",
+        "latitude": 53.73444444444444,
+        "longitude": 15.242777777777777
+    },
+    {
+        "ident": "GOMOR",
+        "latitude": 51.18333333333333,
+        "longitude": 17.61722222222222
+    },
+    {
+        "ident": "GONTU",
+        "latitude": 53.495555555555555,
+        "longitude": 19.31861111111111
+    },
+    {
+        "ident": "GORAT",
+        "latitude": 53.17805555555555,
+        "longitude": 23.894166666666667
+    },
+    {
+        "ident": "GOSAK",
+        "latitude": 50.55777777777777,
+        "longitude": 20.304444444444446
+    },
+    {
+        "ident": "GOSED",
+        "latitude": 51.976111111111116,
+        "longitude": 21.13222222222222
+    },
+    {
+        "ident": "GOSOT",
+        "latitude": 54.80555555555555,
+        "longitude": 14.857777777777777
+    },
+    {
+        "ident": "GOTIX",
+        "latitude": 50.02166666666667,
+        "longitude": 23.211944444444445
+    },
+    {
+        "ident": "GOVEN",
+        "latitude": 52.05833333333333,
+        "longitude": 14.755555555555556
+    },
+    {
+        "ident": "IBARA",
+        "latitude": 51.94944444444444,
+        "longitude": 19.442222222222224
+    },
+    {
+        "ident": "IBEKA",
+        "latitude": 50.02777777777778,
+        "longitude": 18.941666666666666
+    },
+    {
+        "ident": "IDEXU",
+        "latitude": 52.697222222222216,
+        "longitude": 17.03611111111111
+    },
+    {
+        "ident": "INDIG",
+        "latitude": 51.99666666666667,
+        "longitude": 18.0
+    },
+    {
+        "ident": "IPLIT",
+        "latitude": 54.63777777777778,
+        "longitude": 19.355555555555558
+    },
+    {
+        "ident": "IRGET",
+        "latitude": 53.66972222222222,
+        "longitude": 14.614722222222222
+    },
+    {
+        "ident": "KEKUS",
+        "latitude": 50.285,
+        "longitude": 18.585833333333333
+    },
+    {
+        "ident": "KELOD",
+        "latitude": 52.23388888888889,
+        "longitude": 15.883333333333333
+    },
+    {
+        "ident": "KEMUM",
+        "latitude": 54.484722222222224,
+        "longitude": 17.473055555555554
+    },
+    {
+        "ident": "KOLOB",
+        "latitude": 54.823055555555555,
+        "longitude": 14.944166666666668
+    },
+    {
+        "ident": "KONAM",
+        "latitude": 52.23555555555556,
+        "longitude": 20.716944444444444
+    },
+    {
+        "ident": "KOTEK",
+        "latitude": 52.0675,
+        "longitude": 20.616944444444446
+    },
+    {
+        "ident": "KOVOL",
+        "latitude": 52.08386388888889,
+        "longitude": 21.375297222222223
+    },
+    {
+        "ident": "KRASI",
+        "latitude": 51.03,
+        "longitude": 22.021944444444443
+    },
+    {
+        "ident": "KUBUK",
+        "latitude": 50.27027777777778,
+        "longitude": 22.231388888888887
+    },
+    {
+        "ident": "KUKAM",
+        "latitude": 50.80611111111111,
+        "longitude": 20.060555555555556
+    },
+    {
+        "ident": "KUKOP",
+        "latitude": 52.147777777777776,
+        "longitude": 20.410555555555554
+    },
+    {
+        "ident": "KULEK",
+        "latitude": 53.55277777777778,
+        "longitude": 20.5
+    },
+    {
+        "ident": "KULUV",
+        "latitude": 51.647777777777776,
+        "longitude": 16.339166666666664
+    },
+    {
+        "ident": "KUNER",
+        "latitude": 55.25861111111111,
+        "longitude": 18.448055555555555
+    },
+    {
+        "ident": "KURON",
+        "latitude": 50.63166666666667,
+        "longitude": 20.148055555555555
+    },
+    {
+        "ident": "KUTEV",
+        "latitude": 52.21472222222223,
+        "longitude": 20.924444444444447
+    },
+    {
+        "ident": "LAMID",
+        "latitude": 52.31083333333333,
+        "longitude": 20.71783333333333
+    },
+    {
+        "ident": "LARMA",
+        "latitude": 55.27506944444444,
+        "longitude": 16.50030277777778
+    },
+    {
+        "ident": "LASGU",
+        "latitude": 53.211111111111116,
+        "longitude": 19.177222222222223
+    },
+    {
+        "ident": "LASKU",
+        "latitude": 52.04666666666667,
+        "longitude": 21.070833333333333
+    },
+    {
+        "ident": "LATAG",
+        "latitude": 51.72166666666667,
+        "longitude": 15.746666666666666
+    },
+    {
+        "ident": "LATMI",
+        "latitude": 55.448611111111106,
+        "longitude": 18.16722222222222
+    },
+    {
+        "ident": "LETKI",
+        "latitude": 52.18805555555555,
+        "longitude": 23.404444444444444
+    },
+    {
+        "ident": "LIMKO",
+        "latitude": 54.041666666666664,
+        "longitude": 21.5
+    },
+    {
+        "ident": "LIMVI",
+        "latitude": 51.745,
+        "longitude": 21.685555555555556
+    },
+    {
+        "ident": "LODNI",
+        "latitude": 53.73694444444445,
+        "longitude": 18.62472222222222
+    },
+    {
+        "ident": "LOGDA",
+        "latitude": 51.28444444444444,
+        "longitude": 20.69388888888889
+    },
+    {
+        "ident": "LOLKA",
+        "latitude": 49.22,
+        "longitude": 20.1
+    },
+    {
+        "ident": "LOLKO",
+        "latitude": 51.692499999999995,
+        "longitude": 15.935
+    },
+    {
+        "ident": "LOLSI",
+        "latitude": 52.177499999999995,
+        "longitude": 19.87138888888889
+    },
+    {
+        "ident": "LUBEN",
+        "latitude": 51.22416666666667,
+        "longitude": 19.9575
+    },
+    {
+        "ident": "LUGOL",
+        "latitude": 49.205555555555556,
+        "longitude": 22.738055555555558
+    },
+    {
+        "ident": "LUKOR",
+        "latitude": 50.586666666666666,
+        "longitude": 20.204444444444444
+    },
+    {
+        "ident": "LUPUX",
+        "latitude": 50.336111111111116,
+        "longitude": 19.021666666666665
+    },
+    {
+        "ident": "LURAD",
+        "latitude": 50.19194444444444,
+        "longitude": 18.574444444444445
+    },
+    {
+        "ident": "LUSID",
+        "latitude": 54.916666666666664,
+        "longitude": 15.296111111111111
+    },
+    {
+        "ident": "LUXAR",
+        "latitude": 49.93,
+        "longitude": 21.17527777777778
+    },
+    {
+        "ident": "MAGAN",
+        "latitude": 52.85,
+        "longitude": 17.616666666666667
+    },
+    {
+        "ident": "MAKOV",
+        "latitude": 51.149166666666666,
+        "longitude": 19.111944444444447
+    },
+    {
+        "ident": "MAPEX",
+        "latitude": 53.70611111111111,
+        "longitude": 17.003611111111113
+    },
+    {
+        "ident": "MAPIK",
+        "latitude": 50.52611111111111,
+        "longitude": 18.247500000000002
+    },
+    {
+        "ident": "MASAK",
+        "latitude": 52.00055555555556,
+        "longitude": 21.110833333333336
+    },
+    {
+        "ident": "MASOV",
+        "latitude": 52.212500000000006,
+        "longitude": 20.91777777777778
+    },
+    {
+        "ident": "MASUN",
+        "latitude": 53.63666666666666,
+        "longitude": 15.276666666666667
+    },
+    {
+        "ident": "MATEM",
+        "latitude": 52.085525000000004,
+        "longitude": 20.662777777777777
+    },
+    {
+        "ident": "MAXAM",
+        "latitude": 49.97361111111111,
+        "longitude": 21.378888888888888
+    },
+    {
+        "ident": "MIRVO",
+        "latitude": 53.38805555555555,
+        "longitude": 15.920833333333333
+    },
+    {
+        "ident": "MISKA",
+        "latitude": 51.18583333333333,
+        "longitude": 16.934444444444445
+    },
+    {
+        "ident": "MIXAT",
+        "latitude": 51.48833333333334,
+        "longitude": 18.008055555555554
+    },
+    {
+        "ident": "MOKOS",
+        "latitude": 50.507222222222225,
+        "longitude": 19.35611111111111
+    },
+    {
+        "ident": "MOLIL",
+        "latitude": 52.592222222222226,
+        "longitude": 18.0
+    },
+    {
+        "ident": "MOSIR",
+        "latitude": 50.206944444444446,
+        "longitude": 22.775
+    },
+    {
+        "ident": "MOTAD",
+        "latitude": 55.20944444444445,
+        "longitude": 17.505555555555556
+    },
+    {
+        "ident": "MYSKO",
+        "latitude": 50.53638888888889,
+        "longitude": 19.279444444444444
+    },
+    {
+        "ident": "NAKER",
+        "latitude": 51.496944444444445,
+        "longitude": 21.580277777777777
+    },
+    {
+        "ident": "NAROX",
+        "latitude": 51.20305555555556,
+        "longitude": 15.010555555555555
+    },
+    {
+        "ident": "NASOK",
+        "latitude": 53.091944444444444,
+        "longitude": 19.00638888888889
+    },
+    {
+        "ident": "NATIX",
+        "latitude": 49.92666666666666,
+        "longitude": 21.38361111111111
+    },
+    {
+        "ident": "NAVUR",
+        "latitude": 51.01305555555555,
+        "longitude": 19.91111111111111
+    },
+    {
+        "ident": "NAXAR",
+        "latitude": 49.760555555555555,
+        "longitude": 19.8125
+    },
+    {
+        "ident": "NEREK",
+        "latitude": 53.14472222222222,
+        "longitude": 18.47222222222222
+    },
+    {
+        "ident": "NETIR",
+        "latitude": 49.69472222222222,
+        "longitude": 18.70888888888889
+    },
+    {
+        "ident": "NETOP",
+        "latitude": 53.54861111111111,
+        "longitude": 15.504444444444445
+    },
+    {
+        "ident": "NIDAS",
+        "latitude": 51.69518055555555,
+        "longitude": 20.968627777777776
+    },
+    {
+        "ident": "NISKA",
+        "latitude": 52.018522222222224,
+        "longitude": 20.812450000000002
+    },
+    {
+        "ident": "NOMIX",
+        "latitude": 49.94,
+        "longitude": 18.979166666666664
+    },
+    {
+        "ident": "NOSKU",
+        "latitude": 51.16861111111111,
+        "longitude": 15.87138888888889
+    },
+    {
+        "ident": "NUDRO",
+        "latitude": 51.165277777777774,
+        "longitude": 17.325555555555557
+    },
+    {
+        "ident": "NUMBA",
+        "latitude": 50.37555555555556,
+        "longitude": 18.108611111111113
+    },
+    {
+        "ident": "OBALU",
+        "latitude": 50.71083333333333,
+        "longitude": 20.109444444444446
+    },
+    {
+        "ident": "OBOKU",
+        "latitude": 52.25222222222222,
+        "longitude": 18.0
+    },
+    {
+        "ident": "OBOLA",
+        "latitude": 52.19488055555555,
+        "longitude": 16.202033333333333
+    },
+    {
+        "ident": "ODERA",
+        "latitude": 50.904444444444444,
+        "longitude": 14.992777777777777
+    },
+    {
+        "ident": "ODLOT",
+        "latitude": 53.49611111111111,
+        "longitude": 17.403888888888886
+    },
+    {
+        "ident": "ODRAP",
+        "latitude": 49.74194444444444,
+        "longitude": 21.84111111111111
+    },
+    {
+        "ident": "ODVOK",
+        "latitude": 49.81055555555555,
+        "longitude": 20.334722222222222
+    },
+    {
+        "ident": "OKENO",
+        "latitude": 51.569722222222225,
+        "longitude": 18.593888888888888
+    },
+    {
+        "ident": "OKTAS",
+        "latitude": 50.33222222222223,
+        "longitude": 18.33888888888889
+    },
+    {
+        "ident": "OKTOR",
+        "latitude": 50.591944444444444,
+        "longitude": 19.891388888888887
+    },
+    {
+        "ident": "OLILA",
+        "latitude": 52.70444444444445,
+        "longitude": 20.328333333333333
+    },
+    {
+        "ident": "OLKIN",
+        "latitude": 53.76916666666666,
+        "longitude": 20.5
+    },
+    {
+        "ident": "OLUMA",
+        "latitude": 51.89666666666667,
+        "longitude": 15.75611111111111
+    },
+    {
+        "ident": "OMAVA",
+        "latitude": 51.38388888888889,
+        "longitude": 21.688055555555557
+    },
+    {
+        "ident": "OSKUD",
+        "latitude": 53.7175,
+        "longitude": 19.761944444444445
+    },
+    {
+        "ident": "OSMAT",
+        "latitude": 50.24277777777778,
+        "longitude": 23.045555555555556
+    },
+    {
+        "ident": "PEKOT",
+        "latitude": 50.388333333333335,
+        "longitude": 17.443333333333335
+    },
+    {
+        "ident": "PETEL",
+        "latitude": 51.85901666666667,
+        "longitude": 20.67161388888889
+    },
+    {
+        "ident": "PEVUM",
+        "latitude": 52.309444444444445,
+        "longitude": 18.6575
+    },
+    {
+        "ident": "PIGAT",
+        "latitude": 50.27444444444444,
+        "longitude": 21.67361111111111
+    },
+    {
+        "ident": "PIKAL",
+        "latitude": 52.22152222222223,
+        "longitude": 19.97692222222222
+    },
+    {
+        "ident": "PIVET",
+        "latitude": 54.87444444444444,
+        "longitude": 15.839722222222223
+    },
+    {
+        "ident": "PIXOR",
+        "latitude": 53.28861111111111,
+        "longitude": 15.47638888888889
+    },
+    {
+        "ident": "POBOK",
+        "latitude": 50.58305555555556,
+        "longitude": 20.218888888888888
+    },
+    {
+        "ident": "PODAN",
+        "latitude": 49.41277777777778,
+        "longitude": 21.439166666666665
+    },
+    {
+        "ident": "POKEN",
+        "latitude": 54.819722222222225,
+        "longitude": 14.564166666666667
+    },
+    {
+        "ident": "RANOK",
+        "latitude": 54.91277777777778,
+        "longitude": 18.958333333333332
+    },
+    {
+        "ident": "RASUT",
+        "latitude": 51.14555555555555,
+        "longitude": 16.259166666666665
+    },
+    {
+        "ident": "REDLU",
+        "latitude": 52.23527777777778,
+        "longitude": 20.70722222222222
+    },
+    {
+        "ident": "REDMO",
+        "latitude": 53.11083333333333,
+        "longitude": 17.537222222222223
+    },
+    {
+        "ident": "REGLI",
+        "latitude": 50.030277777777776,
+        "longitude": 17.995555555555555
+    },
+    {
+        "ident": "RILAB",
+        "latitude": 50.765277777777776,
+        "longitude": 21.803333333333335
+    },
+    {
+        "ident": "RINAM",
+        "latitude": 49.994166666666665,
+        "longitude": 19.351944444444445
+    },
+    {
+        "ident": "ROBOV",
+        "latitude": 54.2625,
+        "longitude": 15.055833333333334
+    },
+    {
+        "ident": "RODAK",
+        "latitude": 50.60638888888889,
+        "longitude": 20.162777777777777
+    },
+    {
+        "ident": "ROGAL",
+        "latitude": 50.98694444444445,
+        "longitude": 19.485555555555557
+    },
+    {
+        "ident": "ROKED",
+        "latitude": 50.278888888888886,
+        "longitude": 18.10527777777778
+    },
+    {
+        "ident": "RONEX",
+        "latitude": 52.9225,
+        "longitude": 16.225277777777777
+    },
+    {
+        "ident": "ROPIK",
+        "latitude": 51.45055555555556,
+        "longitude": 16.17666666666667
+    },
+    {
+        "ident": "ROTOL",
+        "latitude": 50.965833333333336,
+        "longitude": 16.290833333333335
+    },
+    {
+        "ident": "ROVEK",
+        "latitude": 53.37888888888889,
+        "longitude": 14.881666666666668
+    },
+    {
+        "ident": "RUDKA",
+        "latitude": 52.85138888888889,
+        "longitude": 23.921944444444446
+    },
+    {
+        "ident": "RUTUK",
+        "latitude": 51.58555555555556,
+        "longitude": 22.124444444444446
+    },
+    {
+        "ident": "SABAB",
+        "latitude": 50.77027777777778,
+        "longitude": 17.899166666666666
+    },
+    {
+        "ident": "SKAVI",
+        "latitude": 49.94027777777777,
+        "longitude": 19.9
+    },
+    {
+        "ident": "SOMOR",
+        "latitude": 53.22694444444445,
+        "longitude": 19.35027777777778
+    },
+    {
+        "ident": "SOMOX",
+        "latitude": 51.46805555555556,
+        "longitude": 22.443055555555556
+    },
+    {
+        "ident": "SOPEL",
+        "latitude": 52.02583333333333,
+        "longitude": 20.847777777777775
+    },
+    {
+        "ident": "SORIX",
+        "latitude": 52.695277777777775,
+        "longitude": 19.82
+    },
+    {
+        "ident": "SOSIK",
+        "latitude": 52.15972222222222,
+        "longitude": 16.495
+    },
+    {
+        "ident": "SOTET",
+        "latitude": 53.82972222222222,
+        "longitude": 23.553055555555556
+    },
+    {
+        "ident": "SOVAM",
+        "latitude": 51.44027777777777,
+        "longitude": 16.714444444444442
+    },
+    {
+        "ident": "SOXER",
+        "latitude": 52.04388888888889,
+        "longitude": 19.935
+    },
+    {
+        "ident": "SUBAX",
+        "latitude": 51.865833333333335,
+        "longitude": 19.125
+    },
+    {
+        "ident": "SUDOL",
+        "latitude": 50.65333333333333,
+        "longitude": 18.411666666666665
+    },
+    {
+        "ident": "SUROD",
+        "latitude": 54.62361111111111,
+        "longitude": 16.904444444444444
+    },
+    {
+        "ident": "SUVEK",
+        "latitude": 50.31805555555556,
+        "longitude": 22.675
+    },
+    {
+        "ident": "TADAK",
+        "latitude": 53.2825,
+        "longitude": 16.898888888888887
+    },
+    {
+        "ident": "TELDU",
+        "latitude": 50.24805555555556,
+        "longitude": 22.73777777777778
+    },
+    {
+        "ident": "TEPNA",
+        "latitude": 49.50472222222222,
+        "longitude": 22.65611111111111
+    },
+    {
+        "ident": "TILAV",
+        "latitude": 54.41638888888889,
+        "longitude": 15.0
+    },
+    {
+        "ident": "TITAK",
+        "latitude": 52.19166666666666,
+        "longitude": 19.46333333333333
+    },
+    {
+        "ident": "TOLPA",
+        "latitude": 51.30277777777778,
+        "longitude": 23.645833333333332
+    },
+    {
+        "ident": "TOMKO",
+        "latitude": 53.69583333333333,
+        "longitude": 15.842777777777778
+    },
+    {
+        "ident": "TOMTI",
+        "latitude": 50.95305555555556,
+        "longitude": 15.293333333333333
+    },
+    {
+        "ident": "TOSPO",
+        "latitude": 52.01638888888889,
+        "longitude": 23.66472222222222
+    },
+    {
+        "ident": "TOXAR",
+        "latitude": 52.61333333333334,
+        "longitude": 22.53888888888889
+    },
+    {
+        "ident": "TUROL",
+        "latitude": 53.85861111111111,
+        "longitude": 20.5
+    },
+    {
+        "ident": "UNDUK",
+        "latitude": 53.57611111111112,
+        "longitude": 17.976388888888888
+    },
+    {
+        "ident": "UREKO",
+        "latitude": 50.62916666666667,
+        "longitude": 22.70861111111111
+    },
+    {
+        "ident": "UTOLU",
+        "latitude": 51.89694444444444,
+        "longitude": 18.8675
+    },
+    {
+        "ident": "VABAT",
+        "latitude": 52.54333333333333,
+        "longitude": 16.19361111111111
+    },
+    {
+        "ident": "VAGSA",
+        "latitude": 51.33305555555556,
+        "longitude": 17.555833333333332
+    },
+    {
+        "ident": "VAKAD",
+        "latitude": 49.941111111111105,
+        "longitude": 19.384166666666665
+    },
+    {
+        "ident": "VALUD",
+        "latitude": 52.011944444444445,
+        "longitude": 19.552222222222223
+    },
+    {
+        "ident": "VAPOS",
+        "latitude": 54.79527777777778,
+        "longitude": 17.826666666666668
+    },
+    {
+        "ident": "VAREN",
+        "latitude": 49.89944444444444,
+        "longitude": 22.668333333333333
+    },
+    {
+        "ident": "VAVEK",
+        "latitude": 52.69,
+        "longitude": 19.212777777777777
+    },
+    {
+        "ident": "VAVEL",
+        "latitude": 50.06638888888889,
+        "longitude": 19.961944444444445
+    },
+    {
+        "ident": "VEBEX",
+        "latitude": 50.36333333333334,
+        "longitude": 18.476666666666667
+    },
+    {
+        "ident": "VELAB",
+        "latitude": 51.469722222222224,
+        "longitude": 16.74888888888889
+    },
+    {
+        "ident": "VELAV",
+        "latitude": 52.31805555555556,
+        "longitude": 20.85611111111111
+    },
+    {
+        "ident": "VELAX",
+        "latitude": 50.48888888888889,
+        "longitude": 22.520555555555553
+    },
+    {
+        "ident": "VENES",
+        "latitude": 51.14888888888889,
+        "longitude": 21.910555555555554
+    },
+    {
+        "ident": "VIBUL",
+        "latitude": 54.34166666666667,
+        "longitude": 15.274444444444445
+    },
+    {
+        "ident": "XALUR",
+        "latitude": 51.84916666666667,
+        "longitude": 19.983333333333334
+    },
+    {
+        "ident": "XATOG",
+        "latitude": 52.459722222222226,
+        "longitude": 21.33222222222222
+    },
+    {
+        "ident": "XELBO",
+        "latitude": 52.00388888888889,
+        "longitude": 21.123333333333335
+    },
+    {
+        "ident": "XELET",
+        "latitude": 50.837500000000006,
+        "longitude": 17.125833333333333
+    },
+    {
+        "ident": "XELOL",
+        "latitude": 54.277499999999996,
+        "longitude": 14.895
+    },
+    {
+        "ident": "XEMOL",
+        "latitude": 50.00555555555555,
+        "longitude": 20.740277777777777
+    },
+    {
+        "ident": "XERKO",
+        "latitude": 50.8675,
+        "longitude": 17.42138888888889
+    },
+    {
+        "ident": "XIDNA",
+        "latitude": 51.7,
+        "longitude": 16.997500000000002
+    },
+    {
+        "ident": "XIMBA",
+        "latitude": 51.655833333333334,
+        "longitude": 21.42777777777778
+    }
+]
